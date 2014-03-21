@@ -4,7 +4,6 @@ XSL-and-EAD3
 List of files and what they do:
 ------------------------------
 
-^^^^^^^^^
 XSL FILES
 ---------
 
@@ -14,7 +13,7 @@ langcodetest.xsl = XSL code to return language names taken from LOC MARC list ba
   or "FirstLanguage, SecondLanguage, Third Language, Fourth Language, and Fifth Language."
 
 
-^^^^^^^^^^
+
 EAD3 FILES
 ----------
 
