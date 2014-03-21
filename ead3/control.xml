@@ -1,0 +1,88 @@
+<control>
+	<recordid>SL.0001</recordid>
+	<otherrecordid localtype="manuscript">Slytherin-S-1</otherrecordid>
+	<representation><!--Link to transformed version when this is done--></representation>
+	<filedesc>
+		<titlestmt>
+			<titleproper>Manuscripts of Salazar Slytherin: Finding Aid</titleproper>
+			<subtitle>A guide to the scrolls, papers, and spell books held at Hogwarts School of Witchcraft and Wizardry Archives</subtitle>
+			<author>Felicia Flitwick</author>
+			<sponsor>Funding for the creation of this finding aid was made possible by a generous gift of Slytherin's class of 1972. Funding for encoding was made possible by a gift from Slytherin's class of 1998.</sponsor>
+		</titlestmt>
+		<editionstmt>
+			<edition>2nd edition</edition>
+			<p>Edition was updated during EAD3 encoding to conform to DACS standards.</p>
+		</editionstmt>
+		<publicationstmt>
+			<publisher>Hogwarts School of Witchcraft and Wizardry</publisher>
+			<date normal="2014-03-01">March 1, 2014</date>
+			<address>
+				<addressline>Hogwarts School of Witchcraft and Wizardry, Archives</addressline>
+				<addressline>Hogwarts Castle</addressline>
+				<addressline>Inverness IV27 H64</addressline>
+				<addressline>Scotland, UK</addressline>
+				<addressline>+44 01549 511100</addressline>
+				<addressline>archivist@hogwarts.ac.uk</addressline>
+			</address>
+		</publicationstmt>
+		<seriesstmt>
+			<titleproper>Manuscripts of the Founders of Hogwarts School of Witchcraft and Wizardry</titleproper> <num>3</num>
+		</seriesstmt>
+		<notestmt>
+			<controlnote><p>The archivist is aware that certain families who came up through Slytherin still possess original documents from the house's founder. Please consider donating or bequeathing these to our archives so that we may present Salazar Slytherin's life and views more completely.</p></controlnote>
+		</notestmt>
+	</filedesc>
+	<maintenancestatus value="revised" />
+	<publicationstatus value="published"/>
+	<maintenanceagency>
+		<agencyname>Hogwarts School of Witchcraft and Wizardry Archives</agencyname>
+		<agencycode>StInHSWWA</agencycode>
+		<otheragencycode localtype="wizlib">H</otheragencycode>
+	</maintenanceagency>
+	<languagedeclaration>
+		<language langcode="eng">English</language>
+		<script scriptcode="latn">Latin</script>
+	</languagedeclaration>
+	<conventiondeclaration>
+		<citation href="http://www2.archivists.org/standards/DACS" lastdatetimeverified="2014-03-01T16:30:21Z" linktitle="DACS in HTML on SAA website" actuate="onload" show="new">Describing Archives: a Content Standard</citation>
+		<abbr>DACS</abbr>
+		<descriptivenote><p>DACS was used as the primary description standard.</p></descriptivenote>
+	</conventiondeclaration>
+	<localtypedeclaration>
+		<citation href="http://eadiva.com/wizlib" linktitle="WizLib Standards" actuate="onload" show="new">Standards for Wizarding Libraries and Archives: 2012</citation>
+		<abbr>WizLib</abbr>
+		<descriptivenote><p>The 2012 edition of the Standards for Wizarding Libraries and Archives was used to handle descriptions specific to the wizarding world, such as the Wizarding Agency Code.</p></descriptivenote>
+	</localtypedeclaration>
+	<localcontrol localtype="house">
+		<term>Slytherin</term>
+	</localcontrol>
+	<localcontrol localtype="section">
+		<term>Restricted</term>
+	</localcontrol>
+	<maintenancehistory>
+		<maintenanceevent>
+			<eventtype value="derived" />
+			<eventdatetime standarddatetime="2014-03-01T08:05:33Z">March 1, 2014</eventdatetime>
+			<agent>Conversion from EAD 2002 finding aid using XLS transformation.</agent>
+			<agenttype value="machine"/>
+		</maintenanceevent>
+		<maintenanceevent>
+			<eventtype value="revised">Conversion from EAD 2002 revised.</eventtype>
+			<eventdatetime standarddatetime="2014-03-01T10:05:23Z">March 1, 2014</eventdatetime>
+			<agent>Felicia Flitwick</agent>
+			<agenttype value="human"/>
+		</maintenanceevent>
+		<maintenanceevent>
+			<eventtype value="revised"/>
+			<eventdatetime standarddatetime="2014-03-09T14:23:42T">March 9, 2014</eventdatetime>
+			<agent>Felicia Flitwick</agent>
+			<agenttype value="human"/>
+		</maintenanceevent>
+	</maintenancehistory>
+	<sources>
+		<source>
+			<sourceentry>Hogwarts: A History</sourceentry>
+			<descriptivenote><p>Basic biographical and historical information was taken from <title>Hogwarts: A History</title>.</p></descriptivenote>
+		</source>
+	</sources>
+</control>
