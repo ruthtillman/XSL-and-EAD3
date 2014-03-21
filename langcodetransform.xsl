@@ -495,9 +495,9 @@
         <xsl:if test="@langcode = 'znd'">Zande languages</xsl:if> 
         <xsl:if test="@langcode = 'zul'">Zulu</xsl:if> 
         <xsl:if test="@langcode = 'zun'">Zuni</xsl:if> 
-          <!-- credit for the following script goes to Timothy A. Thompson --> 
+          <!-- credit for the following script goes to Timothy A. Thompson, @timathom , with one edit--> 
         <xsl:if 
-        test ="count(/ead:ead/ead:archdesc/ead:did/ead:langmaterial/ead:language)&gt;1 and count(/ead:ead/ead:archdesc/ead:did/ead:langmaterial/ead:language)&lt;3">
+        test ="count(/ead:ead/ead:archdesc/ead:did/ead:langmaterial/ead:language)=2">
             <xsl:if test ="position() != last()"> 
                 <xsl:text> and </xsl:text>
             </xsl:if>                           
