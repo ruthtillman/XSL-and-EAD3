@@ -81,8 +81,14 @@
 	</maintenancehistory>
 	<sources>
 		<source>
-			<sourceentry>Hogwarts: A History</sourceentry>
-			<descriptivenote><p>Basic biographical and historical information was taken from <title>Hogwarts: A History</title>.</p></descriptivenote>
+			<sourceentry>Hogwarts: a History</sourceentry>
+			<descriptivenote><p>Basic biographical and historical information was taken from <title>Hogwarts: a History</title>.</p></descriptivenote>
+			<objectxmlwrap>
+				<dc:title>Hogwarts: a History</dc:title>
+				<dc:creator>Bathilda Bagshot</dc:creator>
+				<dc:date>1968</dc:date>
+				<dc:identifier>DA880.B34 1968</dc:identifier>
+			</objectxmlwrap>
 		</source>
 	</sources>
 </control>
