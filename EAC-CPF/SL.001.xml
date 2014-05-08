@@ -123,24 +123,24 @@
         </biogHist>
     </description>
     <relations>
-        <cpfRelation cfpRelationType="associative" xlink:actuate="onRequest" xlink:show="new" xlink:type="simple" xlink:href="http://eadiva.com/hogwarts-cpf/NameFiles.H.001.xml">
+        <cpfRelation cpfRelationType="associative" xlink:actuate="onRequest" xlink:show="new" xlink:type="simple" xlink:href="http://eadiva.com/hogwarts-cpf/NameFiles.H.001.xml">
             <relationEntry>Hufflepuff, Helga</relationEntry>
             <descriptiveNote>
                 <p>Co-founder of Hogwarts School of Witchcraft and Wizardry. While not the most combative, her acceptance of all students willing to learn was the most at odds with Slytherin's pure blood philosophy.</p>
             </descriptiveNote>
         </cpfRelation>
-        <cfpRelation cfpRelationType="associative" xlink:actuate="onRequest" xlink:show="new" xlink:type="simple" xlink:href="http://eadiva.com/hogwarts-cpf/NameFiles.G.001.xml">
+        <cpfRelation cpfRelationType="associative" xlink:actuate="onRequest" xlink:show="new" xlink:type="simple" xlink:href="http://eadiva.com/hogwarts-cpf/NameFiles.G.001.xml">
             <relationEntry>Gryffindor, Godric</relationEntry>
             <descriptiveNote>
                 <p>Co-founder of Hogwarts School of Witchcraft and Wizardry. Initially a good friend and correspondent of Salazar Slytherin, Gryffindor later cut ties over their disagreement concerning acceptance of muggle-born students.</p>
             </descriptiveNote>
-        </cfpRelation>
-        <cfpRelation cfpRelationType="associative" xlink:actuate="onRequest" xlink:show="new" xlink:type="simple" xlink:href="http://eadiva.com/hogwarts-cpf/NameFiles.R.001.xml">
+        </cpfRelation>
+        <cpfRelation cpfRelationType="associative" xlink:actuate="onRequest" xlink:show="new" xlink:type="simple" xlink:href="http://eadiva.com/hogwarts-cpf/NameFiles.R.001.xml">
             <relationEntry>Ravenclaw, Rowena</relationEntry>
             <descriptiveNote>
                 <p>Co-founder of Hogwarts School of Witchcraft and Wizardry.</p>
             </descriptiveNote>
-        </cfpRelation>
+        </cpfRelation>
         <resourceRelation resourceRelationType="creatorOf" xlink:actuate="onRequest" xlink:show="new" xlink:type="simple" xlink:href="http://eadiva.com/hogwarts-ead/SL.0001.xml">
             <relationEntry>Manuscripts of Salazar Slytherin</relationEntry>
             <descriptiveNote>
