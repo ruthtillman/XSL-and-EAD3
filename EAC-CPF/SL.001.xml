@@ -1,34 +1,16 @@
-<eac-cpf xmlns="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd" xmlns:dc="http://purl.org/DC/elements/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink">
+<eac-cpf xmlns="urn:isbn:1-931666-33-4"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd"
+ xmlns:dc="http://purl.org/DC/elements/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink">
 <control>
 	<recordId>NameFiles.S.001</recordId>
     <maintenanceStatus>new</maintenanceStatus>
-    <maintenanceAgency>
-        <agencyName>Hogwarts School of Witchcraft and Wizardry Archives</agencyName>
-        <agencyCode>StInHSWWA</agencyCode>
-        <otherAgencyCode localType="wizlib">H</otherAgencyCode>
-    </maintenanceAgency>
-    <maintenanceHistory>
-        <maintenanceEvent>
-            <eventType>created</eventType>
-            <eventDateTime standardDateTime="2014-03-09T13:51:42Z">March 9, 2014</eventDateTime>
-            <agentType>human</agentType>
-            <agent>Felicia Flitwick</agent>
-            <eventDescription>This file was created during the final revision process for the finding aid of Slytherin's papers.</eventDescription>
-        </maintenanceEvent>
-    </maintenanceHistory>
-    <sources>
-        <source>
-            <sourceEntry>Hogwarts: a History</sourceEntry>
-            <descriptiveNote><p>Basic biographical and historical information was taken from <span localType="title">Hogwarts: a History</span>.</p></descriptiveNote>
-            <objectXMLWrap>
-                <dc:title>Hogwarts: a History</dc:title>
-                <dc:creator>Bathilda Bagshot</dc:creator>
-                <dc:date>1968</dc:date>
-                <dc:identifier>DA880.B34 1968</dc:identifier>
-            </objectXMLWrap>
-        </source>
-    </sources>
     <publicationStatus>approved</publicationStatus>
+    <maintenanceAgency>
+        <agencyCode>ST-In-HSWWA</agencyCode>
+        <otherAgencyCode localType="wizlib">H</otherAgencyCode>
+        <agencyName>Hogwarts School of Witchcraft and Wizardry Archives</agencyName>
+    </maintenanceAgency>
     <languageDeclaration>
         <language languageCode="eng">English</language>
         <script scriptCode="Latn">Latin</script>
@@ -53,6 +35,29 @@
         <citation xlink:href="http://eadiva.com/wizlib" xlink:title="WizLib Standards" xlink:actuate="onLoad" xlink:show="new">Standards for Wizarding Libraries and Archives: 2012</citation>
         <descriptiveNote><p>Use for the part of the name which does not involve the surname.</p></descriptiveNote>
     </localTypeDeclaration>
+    <maintenanceHistory>
+        <maintenanceEvent>
+            <eventType>created</eventType>
+            <eventDateTime standardDateTime="2014-03-09T13:51:42Z">March 9, 2014</eventDateTime>
+            <agentType>human</agentType>
+            <agent>Felicia Flitwick</agent>
+            <eventDescription>This file was created during the final revision process for the finding aid of Slytherin's papers.</eventDescription>
+        </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+        <source>
+            <sourceEntry>Hogwarts: a History</sourceEntry>
+            <objectXMLWrap>
+                <dublincore>
+                    <dc:title>Hogwarts: a History</dc:title>
+                    <dc:creator>Bathilda Bagshot</dc:creator>
+                    <dc:date>1968</dc:date>
+                    <dc:identifier>DA880.B34 1968</dc:identifier>
+                </dublincore>
+            </objectXMLWrap>
+            <descriptiveNote><p>Basic biographical and historical information was taken from <span localType="title">Hogwarts: a History</span>.</p></descriptiveNote>
+        </source>
+    </sources>
 </control>
 <cpfDescription>
     <identity>
@@ -68,19 +73,19 @@
     <description>
         <existDates>
             <dateRange>
-                <fromDate notAfter="950" standardDate="950">before 950</fromDate>
+                <fromDate notAfter="0950" standardDate="0950">before 950</fromDate>
                 <toDate notAfter="1100" standardDate="1100">before 1100</toDate>
             </dateRange>
         </existDates>
         <places>
             <place>
-                <placeEntry>fens, England</placeEntry>
                 <placeRole>birth</placeRole>
+                <placeEntry>fens, England</placeEntry>
                 <descriptiveNote><p>It is uncertain in which fen Slytherin was born, but this information about his origin has been preserved in Hogwarts house lore.</p></descriptiveNote>
             </place>
             <place>
-                <placeEntry vocabularySource="WizLib">Hogwarts (Scotland)</placeEntry>
                 <placeRole>residence</placeRole>
+                <placeEntry vocabularySource="WizLib">Hogwarts (Scotland)</placeEntry>
                 <descriptiveNote><p>Slytherin resided at the Hogwarts School of Witchcraft and Wizardry from the time of its founding until his schism with other founders and departure.</p></descriptiveNote>
             </place>
         </places>
