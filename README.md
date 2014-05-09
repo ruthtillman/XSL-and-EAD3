@@ -18,3 +18,9 @@ EAD3 FILES
 ----------
 
 control.xml = The `<control>` part of an EAD3 file I'm in the process of creating. It uses all the possible elements. `<control>` replaces `<eadheader>`.
+
+
+EAC-CPF FILES
+-------------
+
+SL001.xml = an EAC-CPF file for Salazar Slytherin, related to the faux-collection used for a sample EAD3 file.
