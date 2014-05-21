@@ -8,12 +8,6 @@
     <xsl:template match="comment()|processing-instruction()">
         <xsl:copy/>
     </xsl:template>
-    <!--just putting this in here since i'm not sure if there are other eac elements that might need to be processed that don't have a template in the original style sheet-->
-    <xsl:template match="*">
-        <xsl:copy copy-namespaces="no">
-            <xsl:apply-templates select="@*|node()"/>
-        </xsl:copy>
-    </xsl:template>
     <!--ead3 doesn't include the xlink namespace anymore, so i've removed namespaces from the standard identity template-->
     <xsl:template match="@*">
         <xsl:attribute name="{local-name(.)}">
@@ -49,49 +43,12 @@
     
     <!--element templates...
     i'm not sure about all of the elements, but you might be able to re-write this with 1 to 3 templates, lower-casing the majority of element names,
-    with a conditional statement (or an extra template) to change "date" to "datesingle", and something similar for placeEntry-->
+    with a conditional statement (or an extra template) to change "date" to "datesingle", and something similar for placeEntry.  example:-->
     <xsl:template match="eac-cpf:date">
         <datesingle>
             <xsl:apply-templates select="@*|node()"/>
         </datesingle>
     </xsl:template>
-    
-    <xsl:template match="eac-cpf:dateRange">
-        <daterange>
-            <xsl:apply-templates select="@*|node()"/>
-        </daterange>
-    </xsl:template>
-    
-    <xsl:template match="eac-cpf:dateSet">
-        <dateset>
-            <xsl:apply-templates select="@*|node()"/>
-        </dateset>
-    </xsl:template>
-    
-    <xsl:template match="eac-cpf:descriptiveNote">
-        <descriptivenote>
-            <xsl:apply-templates select="@*|node()"/>
-        </descriptivenote>
-    </xsl:template>
-    
-    <xsl:template match="eac-cpf:fromDate">
-        <fromdate>
-            <xsl:apply-templates select="@*|node()"/>
-        </fromdate>
-    </xsl:template>
-    
-    <xsl:template match="eac-cpf:objectXMLWrap">
-        <objectxmlwrap>
-            <xsl:apply-templates select="@*|node()"/>
-        </objectxmlwrap>
-    </xsl:template>
-    
-    <xsl:template match="eac-cpf:p">
-        <p>
-            <xsl:apply-templates select="@*|node()"/>
-        </p>
-    </xsl:template>
-    
     <xsl:template match="eac-cpf:placeEntry">
         <!--i need to actually look into this one, since i'm not familiar with the ead3 or the eac, but i basically kept the original version as is-->
         <geogname>
@@ -101,16 +58,10 @@
             </part>
         </geogname>
     </xsl:template>
-    
-    <xsl:template match="eac-cpf:relationEntry">
-        <relationentry>
+    <xsl:template match="*">
+        <xsl:element name="{lower-case(local-name())}">
             <xsl:apply-templates select="@*|node()"/>
-        </relationentry>
+        </xsl:element>
     </xsl:template>
     
-    <xsl:template match="eac-cpf:toDate">
-        <todate>
-            <xsl:apply-templates select="@*|node()"/>
-        </todate>
-    </xsl:template>
 </xsl:stylesheet>
