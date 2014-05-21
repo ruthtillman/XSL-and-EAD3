@@ -6,7 +6,7 @@
     
     <!--just adding this template, primarily in case there are any pre-existing comments in the relations section-->
     <xsl:template match="comment()|processing-instruction()">
-        <xsl:apply-templates/>
+        <xsl:copy/>
     </xsl:template>
     <!--just putting this in here since i'm not sure if there are other eac elements that might need to be processed that don't have a template in the original style sheet-->
     <xsl:template match="*">
