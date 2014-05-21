@@ -18,20 +18,11 @@
     <xsl:template match="eac-cpf:cpfRelation">
         <relation>
             <xsl:attribute name="relationtype">cpfrelation</xsl:attribute>
-            <xsl:choose>
-                <xsl:when test="@xlink:actuate='onLoad'">
-                    <xsl:attribute name="actuate">onload</xsl:attribute>
-                </xsl:when>
-                <xsl:when test="@xlink:actuate='onRequest'">
-                    <xsl:attribute name="actuate">onrequest</xsl:attribute>
-                </xsl:when>
-                <xsl:when test="@xlink:actuate='other'">
-                    <xsl:attribute name="actuate">other</xsl:attribute>
-                </xsl:when>
-                <xsl:when test="@xlink:actuate='none'">
-                    <xsl:attribute name="actuate">none</xsl:attribute>
-                </xsl:when>
-            </xsl:choose>
+            <xsl:if test="@xlink:actuate">
+                <xsl:attribute name="actuate">
+                    <xsl:value-of select="lower-case(@xlink:actuate)"/>
+                </xsl:attribute>
+            </xsl:if>
             <xsl:if test="@xlink:arcrole">
                 <xsl:attribute name="linkarcrole">
                     <xsl:value-of select="@xlink:arcrole"/>
@@ -80,20 +71,11 @@
     <xsl:template match="eac-cpf:resourceRelation">
         <relation>
             <xsl:attribute name="relationtype">resourcerelation</xsl:attribute>
-            <xsl:choose>
-                <xsl:when test="@xlink:actuate='onLoad'">
-                    <xsl:attribute name="actuate">onload</xsl:attribute>
-                </xsl:when>
-                <xsl:when test="@xlink:actuate='onRequest'">
-                    <xsl:attribute name="actuate">onrequest</xsl:attribute>
-                </xsl:when>
-                <xsl:when test="@xlink:actuate='other'">
-                    <xsl:attribute name="actuate">other</xsl:attribute>
-                </xsl:when>
-                <xsl:when test="@xlink:actuate='none'">
-                    <xsl:attribute name="actuate">none</xsl:attribute>
-                </xsl:when>
-            </xsl:choose>
+            <xsl:if test="@xlink:actuate">
+                <xsl:attribute name="actuate">
+                    <xsl:value-of select="lower-case(@xlink:actuate)"/>
+                </xsl:attribute>
+            </xsl:if>
             <xsl:if test="@xlink:arcrole">
                 <xsl:attribute name="linkarcrole">
                     <xsl:value-of select="@xlink:arcrole"/>
@@ -142,20 +124,11 @@
     <xsl:template match="eac-cpf:functionRelation">
         <relation>
             <xsl:attribute name="relationtype">functionrelation</xsl:attribute>
-            <xsl:choose>
-                <xsl:when test="@xlink:actuate='onLoad'">
-                    <xsl:attribute name="actuate">onload</xsl:attribute>
-                </xsl:when>
-                <xsl:when test="@xlink:actuate='onRequest'">
-                    <xsl:attribute name="actuate">onrequest</xsl:attribute>
-                </xsl:when>
-                <xsl:when test="@xlink:actuate='other'">
-                    <xsl:attribute name="actuate">other</xsl:attribute>
-                </xsl:when>
-                <xsl:when test="@xlink:actuate='none'">
-                    <xsl:attribute name="actuate">none</xsl:attribute>
-                </xsl:when>
-            </xsl:choose>
+            <xsl:if test="@xlink:actuate">
+                <xsl:attribute name="actuate">
+                    <xsl:value-of select="lower-case(@xlink:actuate)"/>
+                </xsl:attribute>
+            </xsl:if>
             <xsl:if test="@xlink:arcrole">
                 <xsl:attribute name="linkarcrole">
                     <xsl:value-of select="@xlink:arcrole"/>
