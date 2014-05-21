@@ -33,10 +33,7 @@
     <xsl:template match="eac-cpf:cpfRelation | eac-cpf:resourceRelation | eac-cpf:functionRelation">
         <relation>
             <xsl:attribute name="relationtype">
-                <xsl:value-of
-                    select="if (self::eac-cpf:cpfRelation) then 'cpfrelation' 
-                    else if (self::eac-cpf:resourceRelation) then 'resourcerelation'
-                    else 'functionrelation'"/>
+                <xsl:value-of select="lower-case(local-name())"/>
             </xsl:attribute>
             <!--i kept this separate since you need to lower-case the value-->
             <xsl:if test="@xlink:actuate">
