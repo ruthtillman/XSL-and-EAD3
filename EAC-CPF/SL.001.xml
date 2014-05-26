@@ -152,6 +152,12 @@
                 <p>This collection at the Hogwarts archives contains Slytherin's correspondence, known spell books, journals, and other scrolls.</p>
             </descriptiveNote>
         </resourceRelation>
+        <resourceRelation resourceRelationType="subjectOf" xlink:actuate="onRequest" xlink:show="new" xlink:type="simple" xlink:href="http://catalog.hogwarts.ac.uk/record=b11713487">
+            <relationEntry>Correspondence of the Hogwarts Founders</relationEntry>
+            <descriptiveNote>
+                <p>In 1972, Balthilda Bagshot published <span localType="title" style="italic">Correspondence of the Hogwarts Founders</span>, full transcriptions of the letters between Salazar Slytherin, Godric Gryffindor, Helga Hufflepuff, and Rowena Ravenclaw. </p>
+            </descriptiveNote>
+        </resourceRelation>
     </relations>
 </cpfDescription>
 </eac-cpf>
