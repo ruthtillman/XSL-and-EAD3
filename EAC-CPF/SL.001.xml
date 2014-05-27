@@ -121,10 +121,10 @@
         </generalContext>
         <biogHist>
             <abstract>Salazar Slytherin was a pure-blood wizard born in the first half of the tenth century. He is one of the four founders of Hogwarts School of Witchcraft and Wizardry, where one of the four modern houses is named after him. After an argument with the other founders of Hogwarts, particularly Godric Gryffindor, Slytherin left the school. It is unknown where he died, but evidence suggests that his date of death was before the twelfth century.</abstract>
-            <p>Salazar Slytherin was born in the first half of the tenth century, somewhere in fen-country England. Researchers believe it was likely Norfolk, Lincolnshire, or Cambridgeshire, but may have been a connected-county. He came from a family of pure-blood wizards, although the names of his parents are not recorded. It is unknown whether he trained at a school of the time, at home, or under a master. Together with Gryffindor, Ravenclaw, and Hufflepuff, he founded the Hogwarts School of Witchcraft and Wizardry.</p>
+            <p>Salazar Slytherin was born in the first half of the tenth century, somewhere in fen-country England. Researchers believe it was likely Norfolk, Lincolnshire, or Cambridgeshire, but may have been a connected county. He came from a family of pure-blood wizards, although the names of his parents are not recorded. It is unknown whether he trained at a school of the time, at home, or under a master. Together with Gryffindor, Ravenclaw, and Hufflepuff, he founded the Hogwarts School of Witchcraft and Wizardry.</p>
             <p>At Hogwarts, Slytherin taught Legilimency, the magical art of forming a mental connection with another's mind and extracting information or interacting with their thought processes. This may have been a genetic talent, as his descendent, Tom Riddle, was also a noted legilimens. Slytherin was also a Parselmouth, a known genetic trait, and able to speak with snakes. He bred at least one basilisk, which he left at Hogwarts in the Chamber of Secrets. The Chamber remained unopened until 1943, when Riddle opened it and used the basilisk to attack Muggle-borns. The basilisk was not killed until 1993.</p>
             <p>Slytherin believed that the school should only teach pure-blood students and should definitely not accept students whose parents were both Muggles. His own house, Slytherin, continued this tradition, but the other founders overruled him. After an argument with Godric Gryffindor, which may have involved a duel, Slytherin left the school.</p>
-            <p>While it is not known when or where Slytherin died, his spellbooks were recovered shortly before the turn of the twelfth century by Slytherin alumnus and professor Albert Shallowheart. It is assumed that Slytherin was dead when these books were recovered. The books remained in Slytherin house until after the first Wizarding War, when they were donated to the Hogwarts Archives.</p>
+            <p>While it is not known when or where Slytherin died, one of his spell books and a final journal were recovered shortly before the turn of the twelfth century by Slytherin alumnus and professor Albert Shallowheart. It is assumed that Slytherin was dead when these books were recovered.</p>
         </biogHist>
     </description>
     <relations>
@@ -149,7 +149,7 @@
         <resourceRelation resourceRelationType="creatorOf" xlink:actuate="onRequest" xlink:show="new" xlink:type="simple" xlink:href="http://eadiva.com/hogwarts-ead/SL.0001.xml">
             <relationEntry>Manuscripts of Salazar Slytherin</relationEntry>
             <descriptiveNote>
-                <p>This collection at the Hogwarts archives contains Slytherin's correspondence, known spell books, journals, and other scrolls.</p>
+                <p>This collection at the Hogwarts archives contains Slytherin's correspondence, known spell books, journals, and class notes.</p>
             </descriptiveNote>
         </resourceRelation>
         <resourceRelation resourceRelationType="subjectOf" xlink:actuate="onRequest" xlink:show="new" xlink:type="simple" xlink:href="http://catalog.hogwarts.ac.uk/record=b11713487">
