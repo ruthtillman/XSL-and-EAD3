@@ -6,7 +6,7 @@
 	<filedesc>
 		<titlestmt>
 			<titleproper>Manuscripts of Salazar Slytherin: Finding Aid</titleproper>
-				<subtitle>A guide to the letters, papers, and spell books held at Hogwarts School of Witchcraft and Wizardry Archives</subtitle>
+			<subtitle>A guide to the letters, papers, and spell books held at Hogwarts School of Witchcraft and Wizardry Archives</subtitle>
 			<author>Felicia Flitwick</author>
 			<sponsor>Funding for the initial creation of this electronic finding aid was made possible in 1992 by a generous gift of Slytherin's class of 1972. Funding for encoding was made possible in 2008 by a gift from Slytherin's class of 1998.</sponsor>
 		</titlestmt>
@@ -189,7 +189,7 @@
 	</accruals>
 	<acqinfo>
 		<head>Acquisition History</head>
-		<p>Correspondence with the Hogwarts founders and some teaching materials came to the library directly after Salazar Slytherin's departure from Hogwarts. The acquisitoins of other materials are addressed at their component level.</p>
+		<p>Correspondence with the Hogwarts founders and some teaching materials came to the library directly after Salazar Slytherin's departure from Hogwarts. The acquisitions of other materials are addressed at their component level.</p>
 	</acqinfo>
 	<altformavail>
 		<head>Copies for Use</head>
@@ -212,7 +212,7 @@
 	<bioghist>
 		<head>Biography of Salazar Slytherin</head>
 		<p>Salazar Slytherin was born in the first half of the tenth century, somewhere in fen-country England. Researchers believe it was likely Norfolk, Lincolnshire, or Cambridgeshire, but may have been a connected county. He came from a family of pure-blood wizards, although the names of his parents are not recorded. It is unknown whether he trained at a school of the time, at home, or under a master. Together with Gryffindor, Ravenclaw, and Hufflepuff, he founded the <expan abbr="HSWW">Hogwarts School of Witchcraft and Wizardry</expan>.</p>
-		<p>At Hogwarts, Slytherin taught Legilimency, the magical art of forming a mental connection with another's mind and extracting information or interacting with their thought processes. This may have been a genetic talent, as his descendent, Tom Riddle, was also a noted legilimens. Slytherin was also a Parselmouth, a known genet	ic trait, and able to speak with snakes. He bred at least one basilisk, which he left at Hogwarts in the Chamber of Secrets. The Chamber remained unopened until 1943, when Riddle opened it and used the basilisk to attack Muggle-borns. The basilisk was not killed until 1993.</p>
+		<p>At Hogwarts, Slytherin taught Legilimency, the magical art of forming a mental connection with another's mind and extracting information or interacting with their thought processes. This may have been a genetic talent, as his descendent, Tom Riddle, was also a noted legilimens. Slytherin was also a Parselmouth, a known genetic trait, and able to speak with snakes. He bred at least one basilisk, which he left at Hogwarts in the Chamber of Secrets. The Chamber remained unopened until 1943, when Riddle opened it and used the basilisk to attack Muggle-borns. The basilisk was not killed until 1993.</p>
 		<p>Slytherin believed that the school should only teach pure-blood students and should definitely not accept students whose parents were both Muggles. His own house, Slytherin, continued this tradition, but the other founders overruled him. After an argument with Godric Gryffindor, which may have involved a duel, Slytherin left the school.</p>
 		<p>While it is not known when or where Slytherin died, one of his spell books and a final journal were recovered shortly before the turn of the twelfth century by Slytherin alumnus and professor Albert Shallowheart. It is assumed that Slytherin was dead when these books were recovered.</p>
 	</bioghist>
@@ -292,7 +292,7 @@
 		<p><emph render="bold">Series 2: Other Correspondence</emph> is Slytherin's correspondence with other witches and wizards. It includes letters received by Slytherin and left at Hogwarts on his departure as well as some letters which were donated later on by correspondents.</p>
 		<p><emph render="bold">Series 3: Class Notes</emph> consists of Slytherin's notes for teaching classes on Legilimency, Charms, and Care of Magical Creatures.</p>
 		<p><emph render="bold">Series 4: Journals</emph> is made up of four journals kept by Slytherin from around the time of Hogwarts' founding until shortly before his death.</p>
-		<p><emph render="bold">Series 3: Spell Books</emph> consists of five spell books kept by Slytherin to record jinxes, dark charms, legilimency, spells for the control of basilisks, and the darkest arts.</p>
+		<p><emph render="bold">Series 5: Spell Books</emph> consists of five spell books kept by Slytherin to record jinxes, dark charms, legilimency, spells for the control of basilisks, and the darkest arts.</p>
 	</scopecontent>
 	<separatedmaterial>
 		<head>Separated Material</head>
@@ -649,7 +649,9 @@
 					The following are sample passages from Slytherin's journals:<lb/>
 					<quote>Refining <foreign lang="spl" render="italic">Legilimency</foreign>. I believe I have discovered the secret of doing more than parsing thought. I may now twist memories to create visions.</quote>
 					<lb/>
-					<blockquote>A quarrel today between my students and those mudbloods allowed in by Hufflepuff. It may become necessary to withhold the teaching of <foreign lang="spl" render="italic">Crucio</foreign> until the final year of studies. Hufflepuff has suggested that the matter should be brought before the Wizards' Council and wants to expel young Lucian. I will talk to Godric about instituting an internal court for trials concerning student matters. Expulsion should be a matter of last resort, for if we do not train these bright young talents, they may be vulnerable to Muggle courts and burning.</blockquote>
+					<blockquote>
+						<p>A quarrel today between my students and those mudbloods allowed in by Hufflepuff. It may become necessary to withhold the teaching of <foreign lang="spl" render="italic">Crucio</foreign> until the final year of studies. Hufflepuff has suggested that the matter should be brought before the Wizards' Council and wants to expel young Lucian. I will talk to Godric about instituting an internal court for trials concerning student matters. Expulsion should be a matter of last resort, for if we do not train these bright young talents, they may be vulnerable to Muggle courts and burning.</p>
+					</blockquote>
 				</abstract>
 			</did>
 			<controlaccess>
@@ -704,10 +706,10 @@
 			<acqinfo>
 				<head>Acquisitions Information</head>
 				<chronlist>
-					<chronitemset>
+					<chronitem>
 						<datesingle notbefore="1100">circa 1100</datesingle>
 						<event>Slytherin's spell book of jinxes was found by professor <name><part>Albert Shallowheart</part></name> in an abandoned residence near <geogname><part>Slackbuie</part><part>Scotland</part></geogname>. He initially intended it for the possession of Slytherin house. However the headmaster confiscated, who added it to Slytherin's materials in the library.</event>
-					</chronitemset>
+					</chronitem>
 					<chronitem>
 						<datesingle notbefore="1290">circa 1300</datesingle>
 						<event><persname normal="Peverell, Lucinda" rules="wizlib" relator="donor"><part>Lucinda Peverell</part></persname>, daughter of <persname rules="wizlib" source="http://harrypotter.wikia.com/wiki/Cadmus_Peverell"><part>Cadamus Peverell</part></persname>, donated a spell book of dark charms which had been given to her father by Slytherin at some point after his departure from Hogwarts. Her letter accompanying the book noted that it was "prone to muttering" and the headmaster at the time took appropriate steps to shield it.</event>
