@@ -578,14 +578,14 @@
 					<container localtype="scrollboxes">32-38</container>
 					<daoset coverage="part">
 						<dao daotype="derived" href="http://eadiva.com/wizlib-files/salamanders.jpg" localtype="portion" show="embed">
-							<daodesc>
+							<descriptivenote>
 								<p>Sample portion of a scroll on the care of salamanders</p>
-							</daodesc>
+							</descriptivenote>
 						</dao>
 						<dao daotype="derived" href="http://eadiva.com/wizlib-files/imps.jpg" localtype="portion" show="embed">
-							<daodesc>
+							<descriptivenote>
 								<p>Sample portion of a scroll on the care of Imps.</p>
-							</daodesc>
+							</descriptivenote>
 						</dao>
 						<descriptivenote>
 							<p>These materials were digitized for the use of professors teaching Care of Magical Creatures. These images are examples of digitized files which may be available to researchers with the archivists' permission. To request a copy, please contact the archivist.</p>
