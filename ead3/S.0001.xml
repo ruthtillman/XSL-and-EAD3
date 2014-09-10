@@ -741,7 +741,7 @@
 						<datesingle notafter="1820">before 1820</datesingle>
 						<event><persname normal="Gaunt, Malachi" rules="wizlib" relator="donor"><part>Malachi Gaunt</part></persname>, one of the few members of that family to be sorted into Ravenclaw, donated two of Slytherin's spell books, one devoted to legilimency, and one concerning spells to control basilisks and other serpents.</event>
 					</chronitem>
-					<chronitemset>
+					<chronitem>
 						<dateset>
 							<datesingle standarddate="1924-03">March 1924</datesingle>
 							<daterange>
@@ -749,9 +749,11 @@
 								<todate standarddate="1924-09">September 1924</todate>
 							</daterange>
 						</dateset>
-						<event>When <persname normal="Gaunt, Morfin" rules="wizlib" source="http://harrypotter.wikia.com/wiki/Morfin_Gaunt"><part>Morfin Gaunt</part></persname> was sentenced to three years in <corpname normal="Azkaban Prison" rules="wizlib" source="http://harrypotter.wikia.com/wiki/Azkaban"><part>Azkaban</part></corpname>, a spell book of extremely dangerous dark arts was discovered among the belongings he attempted to bring with him. Aurors determined the spell book's creator to be Salazar Slytherin. The book was donated to Hogwarts for exclusive use of headmasters and Defense Against the Dark Arts professors. The spell book has multiple charms intended to alert aurors to unauthorized uses.</event>
-						<event>For nearly three months in 1924, the spell book was temporarily removed from Hogwarts to the Ministry of Magic after <persname normal="Gaunt, Marvolo" rules="wizlib" source="http://harrypotter.wikia.com/wiki/Marvolo_Gaunt"><part>Marvolo Gaunt</part></persname> launched an unsuccessful appeal for its return to the family as inherited property. The spell book was returned to Hogwarts afterward.</event>
-					</chronitemset>
+						<chronitemset>
+							<event>When <persname normal="Gaunt, Morfin" rules="wizlib" source="http://harrypotter.wikia.com/wiki/Morfin_Gaunt"><part>Morfin Gaunt</part></persname> was sentenced to three years in <corpname normal="Azkaban Prison" rules="wizlib" source="http://harrypotter.wikia.com/wiki/Azkaban"><part>Azkaban</part></corpname>, a spell book of extremely dangerous dark arts was discovered among the belongings he attempted to bring with him. Aurors determined the spell book's creator to be Salazar Slytherin. The book was donated to Hogwarts for exclusive use of headmasters and Defense Against the Dark Arts professors. The spell book has multiple charms intended to alert aurors to unauthorized uses.</event>
+							<event>For nearly three months in 1924, the spell book was temporarily removed from Hogwarts to the Ministry of Magic after <persname normal="Gaunt, Marvolo" rules="wizlib" source="http://harrypotter.wikia.com/wiki/Marvolo_Gaunt"><part>Marvolo Gaunt</part></persname> launched an unsuccessful appeal for its return to the family as inherited property. The spell book was returned to Hogwarts afterward.</event>
+						</chronitemset>
+					</chronitem>
 				</chronlist>
 			</acqinfo>
 			<custodhist>
