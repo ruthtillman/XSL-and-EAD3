@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xmlns="http://ead3.archivists.ordidg/schema" xmlns:dc="http://purl.org/DC/elements/1.0/" relatedencoding="MARC">
+<ead xmlns="http://ead3.archivists.org/schema" xmlns:dc="http://purl.org/DC/elements/1.0/" relatedencoding="MARC">
 	<control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="iso15511" scriptencoding="iso15924">
 		<recordid instanceurl="http://eadiva.com/hogwarts-ead/S.0001.xml">S.0001</recordid>
 	<otherrecordid localtype="manuscript">Slytherin-S-1</otherrecordid>
@@ -30,7 +30,7 @@
 		<seriesstmt>
 			<titleproper>Manuscripts of the Founders of Hogwarts School of Witchcraft and Wizardry</titleproper> <num>4</num>
 		</seriesstmt>
-		<notestmt<name />
+		<notestmt>
 			<controlnote>
 				<p>The archivist is aware that certain families who came up through Slytherin still possess original documents and realia from the house's founder. Please consider donating or bequeathing these to our archives so that we may present Salazar Slytherin's life and views more completely.</p>
 			</controlnote>
