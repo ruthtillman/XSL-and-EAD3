@@ -3,7 +3,7 @@
 	<control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="iso15511" scriptencoding="iso15924">
 		<recordid instanceurl="http://eadiva.com/hogwarts-ead/S.0001.xml">S.0001</recordid>
 	<otherrecordid localtype="manuscript">Slytherin-S-1</otherrecordid>
-	<representation href="http://ead3.eadiva.com/S0001" linktitle="HTML transformation of the finding aid" show="new"/>
+	<representation href="http://ead3.eadiva.com/S0001" linktitle="An HTML transformation of the finding aid" show="new"/>
 	<filedesc>
 		<titlestmt>
 			<titleproper>Manuscripts of Salazar Slytherin: Finding Aid</titleproper>
