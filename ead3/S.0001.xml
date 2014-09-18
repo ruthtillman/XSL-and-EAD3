@@ -386,8 +386,8 @@
 						<todate notafter="1050">1050</todate>
 					</daterange>
 				</unitdatestructured>
-				<container containerid="SL0001.01" localtype="box">1</container>
-				<container parent="SL0001.01" localtype="folders">1-11</container>
+				<container id="SL0001.01" localtype="box" containerid="941023610112">1</container>
+                <container parent="SL0001.01" localtype="folders">1-11</container>
 				<physdesc>84 letters</physdesc>
 			</did>
 			<controlaccess>
@@ -457,7 +457,7 @@
 						<todate notafter="1050">1050</todate>
 					</daterange>
 				</unitdatestructured>
-				<container containerid="SL0001.02" localtype="box">2</container>
+				<container id="SL0001.02" localtype="box" containerid="941023610113">2</container>
 				<container parent="SL0001.02" localtype="folders">12-18</container>
 				<physdesc>55 letters</physdesc>
 			</did>
@@ -669,7 +669,7 @@
 					</daterange>
 				</unitdatestructured>
 				<physdesc>4 journals</physdesc>
-				<container containerid="SL0001.03" localtype="box">3</container>
+				<container id="SL0001.03" localtype="box" containerid="941023610114">3</container>
 				<abstract>
 					The following are sample passages from Slytherin's journals:<lb/>
 					Refining <foreign lang="spl" render="italic">Legilimency</foreign>. I believe I have discovered the secret of doing more than parsing thought. I may now twist memories to create visions.
