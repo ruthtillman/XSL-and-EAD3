@@ -1,3 +1,6 @@
+Ongoing development will be on [gitlab](https://gitlab.com/ruthtillman/XSL-and-EAD3).
+---------------------------------------
+
 XSL-and-EAD3
 ============
 
