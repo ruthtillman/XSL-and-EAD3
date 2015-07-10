@@ -171,7 +171,7 @@
 	        </physdescset>
 		<physloc>Use copies of the materials are located in the Hogwarts Library reading room vault. Originals are stored in a secure location.</physloc>
 		<repository>
-			<corpname normal="Hogwarts School of Witchcraft and Wizardry, Archives" rules="wizlib" source="http://harrypotter.wikia.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"><part>Hogwarts School of Witchcraft and Wizardry</part><part>Archives</part></corpname>
+			<corpname normal="Hogwarts School of Witchcraft and Wizardry, Archives" rules="wizlib" identifier="http://harrypotter.wikia.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"><part>Hogwarts School of Witchcraft and Wizardry</part><part>Archives</part></corpname>
 		</repository>
 	</did>
 	<accessrestrict>
@@ -238,9 +238,9 @@
 		<p>While it is not known when or where Slytherin died, one of his spell books and a final journal were recovered shortly before the turn of the twelfth century by Slytherin alumnus and professor Albert Shallowheart. It is assumed that Slytherin was dead when these books were recovered.</p>
 	</bioghist>
 	<controlaccess>
-		<persname encodinganalog="600" relator="creator" rules="wizlib" source="http://harrypotter.wikia.com/wiki/Salazar_Slytherin"><part localtype="surname">Slytherin</part><part localtype="forename">Salazar</part><part localtype="dates">d. circa 1100</part></persname>
-		<famname normal="Slytherin family" rules="wizlib" source="http://harrypotter.wikia.com/wiki/Slytherin_family"><part>Slytherin family</part></famname>
-		<corpname encodinganalog="610" normal="Hogwarts School of Witchcraft and Wizardry" rules="wizlib" source="http://harrypotter.wikia.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"><part>Hogwarts School of Witchcraft and Wizardry</part></corpname>
+		<persname encodinganalog="600" relator="creator" rules="wizlib" identifier="http://harrypotter.wikia.com/wiki/Salazar_Slytherin"><part localtype="surname">Slytherin</part><part localtype="forename">Salazar</part><part localtype="dates">d. circa 1100</part></persname>
+		<famname normal="Slytherin family" rules="wizlib" identifier="http://harrypotter.wikia.com/wiki/Slytherin_family"><part>Slytherin family</part></famname>
+		<corpname encodinganalog="610" normal="Hogwarts School of Witchcraft and Wizardry" rules="wizlib" identifier="http://harrypotter.wikia.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"><part>Hogwarts School of Witchcraft and Wizardry</part></corpname>
 		<subject encodinganalog="650" normal="Magical History, 11th century" rules="wizlib"><part>Magical History</part><part>11th century</part></subject>
 		<genreform encodinganalog="655" normal="Spell books" rules="wizlib"><part>Spell books</part></genreform>
 		<genreform encodinganalog="655" normal="Diaries" rules="wizlib"><part>Diaries</part></genreform>
@@ -317,7 +317,7 @@
 	</scopecontent>
 	<separatedmaterial>
 		<head>Separated Material</head>
-		<p>During the <subject rules="wizlib" source="http://harrypotter.wikia.com/wiki/First_Wizarding_War" normal="Wizarding War, 1970-1981"><part>First Wizarding War</part><part>1970-1981</part></subject>, a group of <corpname rules="wizlib" source="http://harrypotter.wikia.com/wiki/Death_Eaters"><part>Knights of Walpurgis</part><part>(Death Eaters)</part></corpname> stole Syltherin realia from its library display. Known items stolen were Salazar Slytherin's signet ring, a painting (circa 1500) of Slytherin's ancestral home, a ceremonial dagger belonging to Slytherin, and an enchanted 11th century numismatic collection. Use copies of spell books in the archival collection were also taken and had to be recreated. The original Slytherin papers were in the vault, which had been protected by a Disillusionment Charm.</p>
+		<p>During the <subject rules="wizlib" identifier="http://harrypotter.wikia.com/wiki/First_Wizarding_War" normal="Wizarding War, 1970-1981"><part>First Wizarding War</part><part>1970-1981</part></subject>, a group of <corpname rules="wizlib" identifier="http://harrypotter.wikia.com/wiki/Death_Eaters"><part>Knights of Walpurgis</part><part>(Death Eaters)</part></corpname> stole Syltherin realia from its library display. Known items stolen were Salazar Slytherin's signet ring, a painting (circa 1500) of Slytherin's ancestral home, a ceremonial dagger belonging to Slytherin, and an enchanted 11th century numismatic collection. Use copies of spell books in the archival collection were also taken and had to be recreated. The original Slytherin papers were in the vault, which had been protected by a Disillusionment Charm.</p>
 	</separatedmaterial>
 	<userestrict>
 		<head>Restrictions on Use of Materials</head>
@@ -395,9 +395,9 @@
 			</did>
 			<controlaccess>
 				<genreform encodinganalog="655" rules="wizlib"><part>Letters</part></genreform>
-				<persname encodinganalog="600" normal="Gryffindor, Godric" rules="wizlib" source="http://eadiva.com/hogwarts-cpf/G.001.xml"><part>Godric Gryffindor</part></persname>
-				<persname encodinganalog="600" normal="Hufflepuff, Helga" rules="wizlib" source="http://eadiva.com/hogwarts-cpf/H.001.xml"><part>Helga Hufflepuff</part></persname>
-				<persname encodinganalog="600" normal="Ravenclaw, Rowena" rules="wizlib" source="http://eadiva.com/hogwarts-cpf/R.001.xml"><part>Rowena Ravenclaw</part></persname>
+				<persname encodinganalog="600" normal="Gryffindor, Godric" rules="wizlib" identifier="http://eadiva.com/hogwarts-cpf/G.001.xml"><part>Godric Gryffindor</part></persname>
+				<persname encodinganalog="600" normal="Hufflepuff, Helga" rules="wizlib" identifier="http://eadiva.com/hogwarts-cpf/H.001.xml"><part>Helga Hufflepuff</part></persname>
+				<persname encodinganalog="600" normal="Ravenclaw, Rowena" rules="wizlib" identifier="http://eadiva.com/hogwarts-cpf/R.001.xml"><part>Rowena Ravenclaw</part></persname>
 			</controlaccess>
 			<arrangement>
 				<head>Arrangement</head>
@@ -407,21 +407,21 @@
 					<head>Contents Index</head>
 					<p>The letters consist of correspondence with Slytherin's fellow founders of Hogwarts:</p>
 					<indexentry>
-						<persname normal="Gryffindor, Godric" rules="wizlib" source="hhttp://eadiva.com/hogwarts-cpf/G.001.xml"><part>Godric Gryffindor</part></persname>
+						<persname normal="Gryffindor, Godric" rules="wizlib" identifier="http://eadiva.com/hogwarts-cpf/G.001.xml"><part>Godric Gryffindor</part></persname>
 						<ptrgrp>
 							<ref show="new" actuate="onrequest" href="http://eadiva.com/hogwarts-cpf/G.001.xml">Biographical and Relational Information</ref>
 							<ptr target="ggry" show="replace" actuate="onrequest" linktitle="Relationship to Salazar Slytherin"/>
 						</ptrgrp>
 					</indexentry>
 					<indexentry>
-						<persname normal="Hufflepuff, Helga" rules="wizlib" source="http://eadiva.com/hogwarts-cpf/H.001.xml"><part>Helga Hufflepuff</part></persname>
+						<persname normal="Hufflepuff, Helga" rules="wizlib" identifier="http://eadiva.com/hogwarts-cpf/H.001.xml"><part>Helga Hufflepuff</part></persname>
 						<ptrgrp>
 							<ref show="new" actuate="onrequest" href="http://eadiva.com/hogwarts-cpf/H.001.xml">Biographical and Relational Information</ref>
 							<ptr target="hhuf" show="replace" actuate="onrequest" linktitle="Relationship to Salazar Slytherin"/>
 						</ptrgrp>
 					</indexentry>
 					<indexentry>
-						<persname normal="Ravenclaw, Rowena" rules="wizlib" source="http://eadiva.com/hogwarts-cpf/G.001.xml"><part>Rowena Ravenclaw</part></persname>
+						<persname normal="Ravenclaw, Rowena" rules="wizlib" identifier="http://eadiva.com/hogwarts-cpf/G.001.xml"><part>Rowena Ravenclaw</part></persname>
 						<ptrgrp>
 							<ref show="new" actuate="onrequest" href="http://eadiva.com/hogwarts-cpf/R.001.xml">Biographical and Relational Information</ref>
 							<ptr target="rrav" show="replace" actuate="onrequest" linktitle="Relationship to Salazar Slytherin"/>
@@ -741,7 +741,7 @@
 					</chronitem>
 					<chronitem>
 						<datesingle notbefore="1290">circa 1300</datesingle>
-						<event><persname normal="Peverell, Lucinda" rules="wizlib" relator="donor"><part>Lucinda Peverell</part></persname>, daughter of <persname rules="wizlib" source="http://harrypotter.wikia.com/wiki/Cadmus_Peverell"><part>Cadamus Peverell</part></persname>, donated a spell book of dark charms which had been given to her father by Slytherin at some point after his departure from Hogwarts. Her letter accompanying the book noted that it was "prone to muttering" and the headmaster at the time took appropriate steps to shield it.</event>
+						<event><persname normal="Peverell, Lucinda" rules="wizlib" relator="donor"><part>Lucinda Peverell</part></persname>, daughter of <persname rules="wizlib" identifier="http://harrypotter.wikia.com/wiki/Cadmus_Peverell"><part>Cadamus Peverell</part></persname>, donated a spell book of dark charms which had been given to her father by Slytherin at some point after his departure from Hogwarts. Her letter accompanying the book noted that it was "prone to muttering" and the headmaster at the time took appropriate steps to shield it.</event>
 					</chronitem>
 					<chronitem>
 						<datesingle notafter="1820">before 1820</datesingle>
@@ -756,8 +756,8 @@
 							</daterange>
 						</dateset>
 						<chronitemset>
-							<event>When <persname normal="Gaunt, Morfin" rules="wizlib" source="http://harrypotter.wikia.com/wiki/Morfin_Gaunt"><part>Morfin Gaunt</part></persname> was sentenced to three years in <corpname normal="Azkaban Prison" rules="wizlib" source="http://harrypotter.wikia.com/wiki/Azkaban"><part>Azkaban</part></corpname>, a spell book of extremely dangerous dark arts was discovered among the belongings he attempted to bring with him. Aurors determined the spell book's creator to be Salazar Slytherin. The book was donated to Hogwarts for exclusive use of headmasters and Defense Against the Dark Arts professors. The spell book has multiple charms intended to alert aurors to unauthorized uses.</event>
-							<event>For nearly three months in 1924, the spell book was temporarily removed from Hogwarts to the Ministry of Magic after <persname normal="Gaunt, Marvolo" rules="wizlib" source="http://harrypotter.wikia.com/wiki/Marvolo_Gaunt"><part>Marvolo Gaunt</part></persname> launched an unsuccessful appeal for its return to the family as inherited property. The spell book was returned to Hogwarts afterward.</event>
+							<event>When <persname normal="Gaunt, Morfin" rules="wizlib" identifier="http://harrypotter.wikia.com/wiki/Morfin_Gaunt"><part>Morfin Gaunt</part></persname> was sentenced to three years in <corpname normal="Azkaban Prison" rules="wizlib" identifier="http://harrypotter.wikia.com/wiki/Azkaban"><part>Azkaban</part></corpname>, a spell book of extremely dangerous dark arts was discovered among the belongings he attempted to bring with him. Aurors determined the spell book's creator to be Salazar Slytherin. The book was donated to Hogwarts for exclusive use of headmasters and Defense Against the Dark Arts professors. The spell book has multiple charms intended to alert aurors to unauthorized uses.</event>
+							<event>For nearly three months in 1924, the spell book was temporarily removed from Hogwarts to the Ministry of Magic after <persname normal="Gaunt, Marvolo" rules="wizlib" identifier="http://harrypotter.wikia.com/wiki/Marvolo_Gaunt"><part>Marvolo Gaunt</part></persname> launched an unsuccessful appeal for its return to the family as inherited property. The spell book was returned to Hogwarts afterward.</event>
 						</chronitemset>
 					</chronitem>
 				</chronlist>
