@@ -227,47 +227,42 @@
     <p>In 2000, the department began including courses on digital technologies, although the department's mission continues to define Quilting Technology as "the broad set of processes, skills, tools, and techniques developed for the creation of quilts and related textiles." In 2010, the department partnered with the library in the creation of a makerspace.</p>
   </bioghist>
   <controlaccess>
-      <persname identifier="http://id.loc.gov/authorities/names/no2019174587" encodinganalog="600" normal="Russel, Martha A. (Martha Anita), 1941-2010" source="lcnaf"><part localtype="familyname">Russel</part>
-          <part localtype="forename">Martha</part><part localtype="date">1941-2010</part></persname>
-      <corpname identifier="http://id.loc.gov/authorities/names/no2019174523526" encodinganalog="610"><part>Quilting Technologies Department</part><part>Piecemaking
-          University</part></corpname>
-      <subject encodinganalog="650" source="lcsh"><part
-          identifier="http://id.loc.gov/authorities/subjects/sh85109859">Quilting</part><part identifier="http://id.loc.gov/authorities/subjects/sh99005024">History</part></subject>
-      <subject identifier="http://id.loc.gov/authorities/subjects/sh85133169" encodinganalog="650" source="lcsh"><part>Technology</part><part>Social aspects</part></subject>
-      <subject identifier="http://id.quiltlink.org/subjects/T29485" encodinganalog="650" source="quiltlink"><part>Technologies of quilting</part></subject>
-      <subject identifier="http://id.quiltlink.org/subjects/T2532" encodinganalog="650" source="quiltlink"><part>Quilt study</part></subject>
-      <genreform identifier="http://id.loc.gov/authorities/genreForms/gf2014026128" encodinganalog="655" source="lcgft"><part>Minutes (Records)</part></genreform>
-      <genreform identifier="http://id.loc.gov/authorities/genreForms/gf2014026046" encodinganalog="655" source="lcgft"><part>Annual reports</part></genreform>
-      <genreform identifier="http://id.loc.gov/authorities/genreForms/gf2014026067" encodinganalog="655" source="lcgft"><part>Conference materials</part></genreform>
-      <genreform identifier="http://id.quiltlink.org/genres/F23569" encodinganalog="655" source="quiltlink"><part>Grant materials</part></genreform>
-      <occupation identifier="http://vocab.getty.edu/page/aat/300025359" encodinganalog="656" source="aat"><part>quiltmakers</part></occupation>  
+    <persname identifier="http://id.loc.gov/authorities/names/no2019174587" encodinganalog="600" normal="Russel, Martha A. (Martha Anita), 1941-2010" source="lcnaf"><part localtype="familyname">Russel</part> <part localtype="forename">Martha</part><part localtype="date">1941-2010</part></persname>
+    <corpname identifier="http://id.loc.gov/authorities/names/no2019174523526" encodinganalog="610"><part>Quilting Technologies Department</part><part>Piecemaking University</part></corpname>
+    <subject encodinganalog="650" source="lcsh"><part identifier="http://id.loc.gov/authorities/subjects/sh85109859">Quilting</part><part identifier="http://id.loc.gov/authorities/subjects/sh99005024">History</part></subject>
+    <subject identifier="http://id.loc.gov/authorities/subjects/sh85133169" encodinganalog="650" source="lcsh"><part>Technology</part><part>Social aspects</part></subject>
+    <subject identifier="http://id.quiltlink.org/subjects/T29485" encodinganalog="650" source="quiltlink"><part>Technologies of quilting</part></subject>
+    <subject identifier="http://id.quiltlink.org/subjects/T2532" encodinganalog="650" source="quiltlink"><part>Quilt study</part></subject>
+    <genreform identifier="http://id.loc.gov/authorities/genreForms/gf2014026128" encodinganalog="655" source="lcgft"><part>Minutes (Records)</part></genreform>
+    <genreform identifier="http://id.loc.gov/authorities/genreForms/gf2014026046" encodinganalog="655" source="lcgft"><part>Annual reports</part></genreform>
+    <genreform identifier="http://id.loc.gov/authorities/genreForms/gf2014026067" encodinganalog="655" source="lcgft"><part>Conference materials</part></genreform>
+    <genreform identifier="http://id.quiltlink.org/genres/F23569" encodinganalog="655" source="quiltlink"><part>Grant materials</part></genreform>
+    <occupation identifier="http://vocab.getty.edu/page/aat/300025359" encodinganalog="656" source="aat"><part>quiltmakers</part></occupation>  
   </controlaccess>
   <custodhist>
     <head>Custodial History</head>
     <chronlist>
-        <chronitem>
-            <daterange>
-                <fromdate standarddate="1978">1978</fromdate>
-                <todate standarddate="1989">1989</todate>
-            </daterange>
+      <chronitem>
+        <daterange>
+          <fromdate standarddate="1978">1978</fromdate>
+          <todate standarddate="1989">1989</todate>
+        </daterange>
         <chronitemset>
-                <event>Materials held by faculty members.</event>
-                <event>Materials collected by departmental secretaries as informal archive</event>        
+          <event>Materials held by faculty members.</event>
+          <event>Materials collected by departmental secretaries as informal archive</event>        
         </chronitemset>
-        </chronitem>
-        <chronitem>
-            <datesingle>1989</datesingle>
-            <event>Departmental Records Collection Initiative conducted by <corpname
-                normal="University Archives, Piecemaking University"><part>University
-                Archives</part></corpname></event>
-        </chronitem>
-        <chronitem>
-            <daterange>
-                <fromdate standarddate="1989">1989</fromdate>
-                <todate notbefore="2020">2020</todate>
-            </daterange>
-            <event>Records held by University Archives</event>
-        </chronitem>
+      </chronitem>
+      <chronitem>
+        <datesingle>1989</datesingle>
+        <event>Departmental Records Collection Initiative conducted by <corpname normal="University Archives, Piecemaking University"><part>University Archives</part></corpname></event>
+      </chronitem>
+      <chronitem>
+        <daterange>
+          <fromdate standarddate="1989">1989</fromdate>
+          <todate notbefore="2020">2020</todate>
+        </daterange>
+        <event>Records held by University Archives</event>
+      </chronitem>
     </chronlist>
   </custodhist>
   <legalstatus>
@@ -276,78 +271,58 @@
   </legalstatus>
   <phystech>
     <head>Technical Notes</head>
-    <p>Access to hard drives included in the collection require the use of docking station which
-        supports 3.5" SATA 3GB/s drives. Docking stations may be found in the University Archives' reading room.</p>
+    <p>Access to hard drives included in the collection require the use of docking station which supports 3.5" SATA 3GB/s drives. Docking stations may be found in the University Archives' reading room.</p>
   </phystech>
   <prefercite>
     <head>Citation</head>
     <p>Cite materials as follows:</p>
-      <p>[Description or identification of item], [ date, if known]; Quilting Technologies Department
-          Records (QD011). Piecemaking University Archives, Lancaster, PA 17603.</p>
+    <p>[Description or identification of item], [ date, if known]; Quilting Technologies Department Records (QD011). Piecemaking University Archives, Lancaster, PA 17603.</p>
   </prefercite>
   <processinfo>
     <head>Processing Information</head>
-    <p>The original collection was accessioned and processed by University Archivist Wilhelmena Ransom
-        between 1989 and 1990. Accruals are processed annually by student workers with guidance by
-        the University Archivist on occasions when material warranted the creation of a new series.</p>
-      <p>In 2006, upon <persname normal="Russel, Martha A. (Martha Anita), 1941-2010"><part>Dr. Martha Russel's</part></persname>
-          transition to emerita status, Digital Archivist Monica Brown accessioned and processed the two hard drives
-          on which Dr. Russel had stored digital meeting notes, colloquia and symposium reccordings, and other miscellaneous
-          departmental materials. These were used to fill gaps in existing series.</p>
-      <p>From 2016 to 2020, Electronic Records Archivist María Ramirez has annually accessioned and processed the
-          meeting notes, policies, and annual reports via a Box folder shared with the department's administative
-          assistant. Copies of these born-digital materials are stored on the University Archives' fileserver and
-          linked in the finding aid.</p>
+    <p>The original collection was accessioned and processed by University Archivist Wilhelmena Ransom between 1989 and 1990. Accruals are processed annually by student workers with guidance by the University Archivist on occasions when material warranted the creation of a new series.</p>
+    <p>In 2006, upon <persname normal="Russel, Martha A. (Martha Anita), 1941-2010"><part>Dr. Martha Russel's</part></persname> transition to emerita status, Digital Archivist Monica Brown accessioned and processed the two hard drives on which Dr. Russel had stored digital meeting notes, colloquia and symposium reccordings, and other miscellaneous departmental materials. These were used to fill gaps in existing series.</p>
+    <p>From 2016 to 2020, Electronic Records Archivist María Ramirez has annually accessioned and processed the meeting notes, policies, and annual reports via a Box folder shared with the department's administative assistant. Copies of these born-digital materials are stored on the University Archives' fileserver and linked in the finding aid.</p>
   </processinfo>
   <relatedmaterial>
     <head>Related material</head>
-      <archref><title><part>Martha Russel Papers, 1962-2010</part></title>, #<num localtype="collection_id">mr012</num>, <ref
-          href="https://piecemaking.edu/ark:/1313/mr012">view finding aid</ref></archref>
+    <archref><title><part>Martha Russel Papers, 1962-2010</part></title>, #<num localtype="collection_id">mr012</num>, <ref href="https://piecemaking.edu/ark:/1313/mr012">view finding aid</ref></archref>
   </relatedmaterial>
   <relations>
-      <relation relationtype="cpfrelation" actuate="onload" show="new"
-          href="https://piecemaking.edu/ark:/1313/mr012-cpf.xml">
-          <relationentry>Martha Russel</relationentry>
-          <daterange>
-              <fromdate standarddate="1978">1978</fromdate>
-              <todate standarddate="2010">2010</todate>
-          </daterange>
-          <descriptivenote>
-              <p>Department founder and chair from 1978-2001. Professor from 2001-2006. Professor
-                  emerita from 2006 until her death in 2010.</p>
-          </descriptivenote>
-      </relation>
-      <relation relationtype="cpfrelation" actuate="onload" show="new"
-          href="https://piecemaking.edu/ark:1313/gqt014">
-          <relationentry>Graduate Society of Quilting Technologists</relationentry>
-          <daterange>
-              <fromdate standarddate="1980">1980</fromdate>
-          </daterange>
-          <descriptivenote>
-              <p>Organized and run by graduate students within the department with a rotating faculty
-                  advisor, this society co-sponsors the "Threads and Voices" symposium series.
-                 Its students invite speakers, conduct event planning, and host the event, while the
-                department provides financial support and guidance.</p>
-          </descriptivenote>
-      </relation>
-      <relation relationtype="resourcerelation" actuate="onload" show="new"
-          href="https://quilthismus.org/archives/coll/9274">
-          <relationentry>Collaborations</relationentry>
-          <objectxmlwrap>
-              <rdf:Description>
-              <dc:title>Collaborations: Quilting History Museum and Piecemaking U</dc:title>
-              <dc:identifier>9274</dc:identifier>
-              <dc:date>1986-1992</dc:date>
-              <dc:subject>exhibits</dc:subject>
-              <dc:subject>teaching</dc:subject>
-              <dc:subject>quilts</dc:subject>
-              <dc:subject>technology</dc:subject>
-              </rdf:Description>
-          </objectxmlwrap>
-          <descriptivenote><p>Exhibit notes and meeting minutes from a project partnership between
-              the Quilting History Museum and department members of the Quilting Technologies
-              Department</p></descriptivenote>
-      </relation>
+    <relation relationtype="cpfrelation" actuate="onload" show="new" href="https://piecemaking.edu/ark:/1313/mr012-cpf.xml">
+      <relationentry>Martha Russel</relationentry>
+      <daterange>
+          <fromdate standarddate="1978">1978</fromdate>
+          <todate standarddate="2010">2010</todate>
+      </daterange>
+      <descriptivenote>
+        <p>Department founder and chair from 1978-2001. Professor from 2001-2006. Professor emerita from 2006 until her death in 2010.</p>
+      </descriptivenote>
+    </relation>
+    <relation relationtype="cpfrelation" actuate="onload" show="new" href="https://piecemaking.edu/ark:1313/gqt014">
+      <relationentry>Graduate Society of Quilting Technologists</relationentry>
+      <daterange>
+        <fromdate standarddate="1980">1980</fromdate>
+      </daterange>
+      <descriptivenote>
+        <p>Organized and run by graduate students within the department with a rotating faculty advisor, this society co-sponsors the "Threads and Voices" symposium series. Its students invite speakers, conduct event planning, and host the event, while the department provides financial support and guidance.</p>
+      </descriptivenote>
+    </relation>
+    <relation relationtype="resourcerelation" actuate="onload" show="new" href="https://quilthismus.org/archives/coll/9274">
+      <relationentry>Collaborations</relationentry>
+      <objectxmlwrap>
+        <rdf:Description>
+          <dc:title>Collaborations: Quilting History Museum and Piecemaking U</dc:title>
+          <dc:identifier>9274</dc:identifier>
+          <dc:date>1986-1992</dc:date>
+          <dc:subject>exhibits</dc:subject>
+          <dc:subject>teaching</dc:subject>
+          <dc:subject>quilts</dc:subject>
+          <dc:subject>technology</dc:subject>
+        </rdf:Description>
+      </objectxmlwrap>
+      <descriptivenote><p>Exhibit notes and meeting minutes from a project partnership between the Quilting History Museum and department members of the Quilting Technologies Department</p></descriptivenote>
+    </relation>
   </relations>
   <scopecontent>
     <head>Scope and Content of the Collection</head>
