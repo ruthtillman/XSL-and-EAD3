@@ -326,24 +326,16 @@
   </relations>
   <scopecontent>
     <head>Scope and Content of the Collection</head>
-      <p>The collection contains departmental business records: meeting notes, policies, grants, and
-          annual reports. A selection of syllabuses ranging from 1978-1999 reflect the department's
-          practice of allowing prospective and enrolled students to browse a course's contents
-          before registration. The collection also contains recordings of symposia and colloquia
-          sponsored by the department.</p>
+    <p>The collection contains departmental business records: meeting notes, policies, grants, and annual reports. A selection of syllabuses ranging from 1978-1999 reflect the department's practice of allowing prospective and enrolled students to browse a course's contents before registration. The collection also contains recordings of symposia and colloquia sponsored by the department.</p>
   </scopecontent>
   <separatedmaterial>
     <head>Separated Material</head>
-      <p>While the hard drives are retained within this collection, all of <persname normal="Russel,
-          Martha A. (Martha Anita), 1941-2010"><part>Dr. Martha Russel's</part></persname> personal records,
-          (digital and analog) including correspondence, external committee service documents,
-          and other manuscript materials were separated during processing to create the Martha Russel
-          Papers. <ref href="https://piecemaking.edu/ark:/1313/mr012">View finding aid.</ref></p>
-          <archref><title><part>Martha Russel Papers, 1962-2010</part></title>, #<num localtype="collection_id">mr012</num></archref>
+    <p>While the hard drives are retained within this collection, all of <persname normal="Russel, Martha A. (Martha Anita), 1941-2010"><part>Dr. Martha Russel's</part></persname> personal records, (digital and analog) including correspondence, external committee service documents, and other manuscript materials were separated during processing to create the Martha Russel Papers. <ref href="https://piecemaking.edu/ark:/1313/mr012">View finding aid.</ref></p>
+    <archref><title><part>Martha Russel Papers, 1962-2010</part></title>, #<num localtype="collection_id">mr012</num></archref>
   </separatedmaterial>
   <userestrict>
     <head>Restrictions on Use of Materials</head>
-      <p>Duplication of event recordings may require the permission of their copyright holders.</p>
+    <p>Duplication of event recordings may require the permission of their copyright holders.</p>
     <table frame="all" colsep="true" rowsep="true">
       <tgroup align="center" cols="3">
         <colspec colname="materialtype" colnum="1"/>
@@ -352,98 +344,90 @@
         <thead valign="middle">
           <row>
             <entry colname="materialtype">Material Type</entry>
-              <entry colname="usetype">Use Type</entry>
+            <entry colname="usetype">Use Type</entry>
             <entry colname="permissionrequired">Permission Required</entry>
           </row>
         </thead>
         <tbody valign="middle">
           <row>
             <entry colname="materialtype">Event recordings, 1980-2008</entry>
-              <entry colname="usetype">File copying or other duplication of audio or visual content</entry>
-            <entry colname="permissionrequired">Requires permission of the speakers or copyright holders
-                as no waivers or permission slips were obtained</entry>
+            <entry colname="usetype">File copying or other duplication of audio or visual content</entry>
+            <entry colname="permissionrequired">Requires permission of the speakers or copyright holders as no waivers or permission slips were obtained</entry>
           </row>
           <row>
             <entry colname="materialtype">Event recordings, 2009-</entry>
-              <entry colname="usetype">File copying or other duplication of audio or visual content</entry>
-            <entry colname="permissionrequired">Consult with the archivist for waivers which contain
-                specific guidance by each speaker for the duplication and use of each recording. Speakers
-                were given the following options: to restrict duplication entirely, to allow duplication for personal
-                research use, to allow duplication for personal research use and teaching, or to freely allow
-                duplication and use of the materials. These permissions were obtained separately from
-                streaming permissions and copies of the video streaming in the university's YouTube
-                channel should not be interpreted as license to duplicate.</entry>
+            <entry colname="usetype">File copying or other duplication of audio or visual content</entry>
+            <entry colname="permissionrequired">Consult with the archivist for waivers which contain specific guidance by each speaker for the duplication and use of each recording. Speakers were given the following options: to restrict duplication entirely, to allow duplication for personal research use, to allow duplication for personal research use and teaching, or to freely allow duplication and use of the materials. These permissions were obtained separately from streaming permissions and copies of the video streaming in the university's YouTube channel should not be interpreted as license to duplicate.</entry>
           </row>
         </tbody>
       </tgroup>
     </table>
   </userestrict>
   <dsc>
-        <c level="series">
-            <did>
-                <unittitle>Department Minutes</unittitle>
-                <unitdatestructured unitdatetype="inclusive">
-                    <dateset>
-                        <daterange>
-                            <fromdate standarddate="1978">1978</fromdate>
-                            <todate standarddate="1982">1983</todate>
-                        </daterange>
-                        <datesingle standarddate="1985">
-                            1985
-                        </datesingle>
-                        <daterange>
-                            <fromdate standarddate="1987">1987</fromdate>
-                            <todate standarddate="2020">2020</todate>
-                        </daterange>
-                    </dateset>
-                </unitdatestructured>
-                <container containerid="9095822543098" localtype="box">1</container>
-                <container containerid="9095822543099" localtype="box">2</container>
-                <container containerid="9095822543100" localtype="box">3</container>
-                <container containerid="9095822543101" localtype="box">4</container>
-                <container containerid="9095822543102" localtype="box">5</container>
-                <container containerid="9095822543103" localtype="box">6</container>
-                <physdescset parallel="true" coverage="whole">
-                    <physdescstructured coverage="part" physdescstructuredtype="carrier">
-                        <quantity>6</quantity>
-                        <unittype>boxes</unittype>
-                    </physdescstructured>
-                        <physdescstructured coverage="part" physdescstructuredtype="materialtype">
-                        <quantity>143</quantity>
-                        <unittype>electronic files</unittype>
-                    </physdescstructured>
-                </physdescset>
-                <abstract>Regular department meetings are held in September-December and
-                    February-April of each school year. Some years include minutes of additional
-                    meetings. Minutes for the years 1983 and 1986 were not retained by anyone in the
-                    department.</abstract>
-            </did>
-            <accruals>
-                <head>Accruals</head>
-                <p>The department minutes for each school year are acquired in June, following the
-                    conclusion of Maymester.</p>
-            </accruals>
-            <accessrestrict>
-                <head>Resctrictions on Access</head>
-                <p>Minutes older than 20 years are open for access. Meeting notes from the
-                    past 20 years require review by an archivist before access.</p>
-            </accessrestrict>
-            <arrangement>
-                <head>Arrangement</head>
-                <p>Minutes are arranged chronologically.</p>
-            </arrangement>
-            <phystech>
-                <head>Technical Requirements</head>
-                <p>Minutes from 2001- are in PDF format and require Adobe Acrobat or another
-                    PDF viewer to read.</p>
-            </phystech>
-            <odd>
-                <head>Other Descriptive Data</head>
-                <p>Because minutes prior to 1989 were acquired from department faculty and staff,
-                    some have annotations, stains, or wear-and-tear from use.</p>
-            </odd>
-        </c>
-      <c level="series">
+    <c level="series">
+      <did>
+        <unittitle>Department Minutes</unittitle>
+        <unitdatestructured unitdatetype="inclusive">
+          <dateset>
+            <daterange>
+              <fromdate standarddate="1978">1978</fromdate>
+              <todate standarddate="1982">1983</todate>
+            </daterange>
+            <datesingle standarddate="1985">1985</datesingle>
+            <daterange>
+              <fromdate standarddate="1987">1987</fromdate>
+              <todate standarddate="2020">2020</todate>
+            </daterange>
+          </dateset>
+          </unitdatestructured>
+          <container containerid="9095822543098" localtype="box">1</container>
+          <container containerid="9095822543099" localtype="box">2</container>
+          <container containerid="9095822543100" localtype="box">3</container>
+          <container containerid="9095822543101" localtype="box">4</container>
+          <container containerid="9095822543102" localtype="box">5</container>
+          <container containerid="9095822543103" localtype="box">6</container>
+          <physdescset parallel="true" coverage="whole">
+            <physdescstructured coverage="part" physdescstructuredtype="carrier">
+              <quantity>6</quantity>
+              <unittype>boxes</unittype>
+            </physdescstructured>
+              <physdescstructured coverage="part" physdescstructuredtype="materialtype">
+              <quantity>143</quantity>
+              <unittype>electronic files</unittype>
+            </physdescstructured>
+          </physdescset>
+          <physdescstructured coverage="part" physdescstructured="materialtype">
+            <quantity>152</quantity>
+            <unittype>paper reports</unittype>
+            <physfacet>Because minutes prior to 1989 were acquired from department faculty and staff, some have annotations, stains, or wear-and-tear from use.</physfacet>
+          </physdescstructured>
+          <abstract>Regular department meetings are held in September-December and February-April of each school year. Some years include minutes of additional meetings. Minutes for the years 1983 and 1986 were not retained by anyone in the department.</abstract>
+        </did>
+        <accruals>
+          <head>Accruals</head>
+          <p>The department minutes for each school year are acquired in June, following the conclusion of Maymester.</p>
+        </accruals>
+        <accessrestrict>
+            <head>Resctrictions on Access</head>
+            <p>Minutes older than 20 years are open for access. Meeting notes from the
+                past 20 years require review by an archivist before access.</p>
+        </accessrestrict>
+        <arrangement>
+            <head>Arrangement</head>
+            <p>Minutes are arranged chronologically.</p>
+        </arrangement>
+        <phystech>
+            <head>Technical Requirements</head>
+            <p>Minutes from 2001- are in PDF format and require Adobe Acrobat or another
+                PDF viewer to read.</p>
+        </phystech>
+        <odd>
+            <head>Other Descriptive Data</head>
+            <p>There is no recorded notetaker on most minutes. Styles vary from brief bullet points to longform notes.</p>
+            
+        </odd>
+    </c>
+    <c level="series">
           <did>
               <unittitle>Annual Reports</unittitle>
               <unitdatestructured unitdatetype="inclusive">
