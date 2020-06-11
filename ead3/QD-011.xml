@@ -408,129 +408,82 @@
           <p>The department minutes for each school year are acquired in June, following the conclusion of Maymester.</p>
         </accruals>
         <accessrestrict>
-            <head>Resctrictions on Access</head>
-            <p>Minutes older than 20 years are open for access. Meeting notes from the
-                past 20 years require review by an archivist before access.</p>
+          <head>Resctrictions on Access</head>
+          <p>Minutes older than 20 years are open for access. Meeting notes from the past 20 years require review by an archivist before access.</p>
         </accessrestrict>
         <arrangement>
-            <head>Arrangement</head>
-            <p>Minutes are arranged chronologically.</p>
+          <head>Arrangement</head>
+          <p>Minutes are arranged chronologically.</p>
         </arrangement>
         <phystech>
-            <head>Technical Requirements</head>
-            <p>Minutes from 2001- are in PDF format and require Adobe Acrobat or another
-                PDF viewer to read.</p>
+          <head>Technical Requirements</head>
+          <p>Minutes from 2001- are in PDF format and require Adobe Acrobat or another PDF viewer to read.</p>
         </phystech>
         <odd>
-            <head>Other Descriptive Data</head>
-            <p>There is no recorded notetaker on most minutes. Styles vary from brief bullet points to longform notes.</p>
-            
+          <head>Other Descriptive Data</head>
+          <p>There is no recorded notetaker on most minutes. Styles vary from brief bullet points to longform notes.</p>    
         </odd>
     </c>
     <c level="series">
-          <did>
-              <unittitle>Annual Reports</unittitle>
-              <unitdatestructured unitdatetype="inclusive">
-                  <daterange>
-                      <fromdate>1979-2019</fromdate>
-                  </daterange>
-              </unitdatestructured>
-              <physdescstructured coverage="part" physdescstructuredtype="carrier">
-                  <quantity>2</quantity>
-                  <unittype>boxes</unittype>
-              </physdescstructured>
-              <container containerid="9095822543104" localtype="box">7</container>
-              <container containerid="9095822543105" localtype="box">8</container>
-              <daoset>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 1999"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-1999.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2000"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2000.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2001"
-                      href="http://archives.piecemaking.edu/files/qd011/annual-report-2001.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2002"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2002.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2003"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2003.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2004"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2004.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2005"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-20045.pdf"/>         
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2006"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2006.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2007"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2007.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2008"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2008.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2009"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2009.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2010"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2010.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2011"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2011.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2012"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2012.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2013"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2013.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2014"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2014.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2015"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2015.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2016"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2016.pdf"/>                  
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2017"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2017.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2018"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2018.pdf"/>
-                  <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new"
-                      linkrole="application/pdf" linktitle="Annual Report: 2019"
-                      href="https://archives.piecemaking.edu/files/qd011/annual-report-2019.pdf"/>
-                  <descriptivenote>
-                        <p>Annual reports from 1999 to present available as PDFs.</p>
-                    </descriptivenote>                
-              </daoset>
-          </did>
-          <accruals>
-              <head>Accruals</head>
-              <p>The annual report is published in July or August and transferred to the archives
-                  sometime between then and the end of the following school year.</p>
-          </accruals>
-          <arrangement>
-              <head>Arrangement</head>
-              <p>Annual reports are arranged chronologically.</p>
-          </arrangement>
-          <phystech>
-          <head>Technical Requirements</head>
-          <p>Minutes from 2001- are in PDF format and require Adobe Acrobat or another
-              PDF-viewer to read.</p>
-          </phystech>
-          <legalstatus>
-              <head>Legal Status</head>
-              <p>Annual reports are copyright Piecemaking University, which has released all its
-                  departmental annual reports to the public domain.</p>
-          </legalstatus>
-      </c>  
-      <c level="series">
+      <did>
+        <unittitle>Annual Reports</unittitle>
+        <unitdatestructured unitdatetype="inclusive">
+          <daterange>
+            <fromdate standarddate="1979">1979</fromdate>
+            <todate standarddate="2019">2019</todate>
+          </daterange>
+        </unitdatestructured>
+        <physdescstructured coverage="part" physdescstructuredtype="carrier">
+          <quantity>2</quantity>
+          <unittype>boxes</unittype>
+        </physdescstructured>
+        <container containerid="9095822543104" localtype="box">7</container>
+        <container containerid="9095822543105" localtype="box">8</container>
+        <daoset>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 1999" href="https://archives.piecemaking.edu/files/qd011/annual-report-1999.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2000" href="https://archives.piecemaking.edu/files/qd011/annual-report-2000.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2001" href="http://archives.piecemaking.edu/files/qd011/annual-report-2001.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2002" href="https://archives.piecemaking.edu/files/qd011/annual-report-2002.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2003" href="https://archives.piecemaking.edu/files/qd011/annual-report-2003.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2004" href="https://archives.piecemaking.edu/files/qd011/annual-report-2004.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2005" href="https://archives.piecemaking.edu/files/qd011/annual-report-20045.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2006" href="https://archives.piecemaking.edu/files/qd011/annual-report-2006.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2007" href="https://archives.piecemaking.edu/files/qd011/annual-report-2007.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2008" href="https://archives.piecemaking.edu/files/qd011/annual-report-2008.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2009" href="https://archives.piecemaking.edu/files/qd011/annual-report-2009.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2010" href="https://archives.piecemaking.edu/files/qd011/annual-report-2010.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2011" href="https://archives.piecemaking.edu/files/qd011/annual-report-2011.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2012" href="https://archives.piecemaking.edu/files/qd011/annual-report-2012.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2013" href="https://archives.piecemaking.edu/files/qd011/annual-report-2013.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2014" href="https://archives.piecemaking.edu/files/qd011/annual-report-2014.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2015" href="https://archives.piecemaking.edu/files/qd011/annual-report-2015.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2016" href="https://archives.piecemaking.edu/files/qd011/annual-report-2016.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2017" href="https://archives.piecemaking.edu/files/qd011/annual-report-2017.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2018" href="https://archives.piecemaking.edu/files/qd011/annual-report-2018.pdf"/>
+          <dao daotype="borndigital" coverage="part" actuate="onrequest" show="new" linkrole="application/pdf" linktitle="Annual Report: 2019" href="https://archives.piecemaking.edu/files/qd011/annual-report-2019.pdf"/>
+          <descriptivenote>
+            <p>Annual reports from 1999 to present available as PDFs.</p>
+          </descriptivenote>                
+        </daoset>
+      </did>
+      <accruals>
+        <head>Accruals</head>
+        <p>The annual report is published in July or August and transferred to the archives sometime between then and the end of the following school year.</p>
+      </accruals>
+      <arrangement>
+        <head>Arrangement</head>
+        <p>Annual reports are arranged chronologically.</p>
+      </arrangement>
+      <phystech>
+        <head>Technical Requirements</head>
+        <p>Minutes from 2001- are in PDF format and require Adobe Acrobat or another PDF viewer to read.</p>
+      </phystech>
+      <legalstatus>
+        <head>Legal Status</head>
+        <p>Annual reports are copyright Piecemaking University, which has released all its departmental annual reports to the public domain.</p>
+      </legalstatus>
+    </c>  
+    <c level="series">
          <did>
              <unittitle>Grants</unittitle>
              <unitdatestructured unitdatetype="inclusive">
