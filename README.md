@@ -1,6 +1,3 @@
-Ongoing development will be on [gitlab](https://gitlab.com/ruthtillman/XSL-and-EAD3).
----------------------------------------
-
 XSL-and-EAD3
 ============
 
@@ -24,10 +21,4 @@ XSL FILES
 EAD3 FILES
 ----------
 
-[control.xml](https://github.com/ruthtillman/XSL-and-EAD3/blob/master/ead3/control.xml) = The `<control>` part of an EAD3 file I'm in the process of creating. It uses all the possible elements. `<control>` replaces `<eadheader>`.
-
-
-EAC-CPF FILES
--------------
-
-[SL001.xml](https://github.com/ruthtillman/XSL-and-EAD3/blob/master/EAC-CPF/SL.001.xml) = an EAC-CPF file for Salazar Slytherin, related to the faux-collection used for a sample EAD3 file.
+QD-011.xml a sample EAD3 finding aid which uses many EAD3 elements.
