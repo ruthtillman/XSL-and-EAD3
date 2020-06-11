@@ -112,163 +112,119 @@
     <source id="patchwork">
       <sourceentry>Patchwork: A History of Quilting Education in the United States</sourceentry>
       <objectxmlwrap>
-          <rdf:Description>
-              <dc:title>Patchwork: A History of Quilting Education in the United States</dc:title>
-              <dc:creator>Amelia Robinson</dc:creator>
-              <dc:date>1998</dc:date>
-              <dc:identifier>TX165 .R63 1998</dc:identifier>
-          </rdf:Description>
+        <rdf:Description>
+            <dc:title>Patchwork: A History of Quilting Education in the United States</dc:title>
+            <dc:creator>Amelia Robinson</dc:creator>
+            <dc:date>1998</dc:date>
+            <dc:identifier>TX165 .R63 1998</dc:identifier>
+        </rdf:Description>
       </objectxmlwrap>
       <descriptivenote>
-          <p>Context for the department history note was taken from <title><part>Patchwork: A History of Quilting Education in the United States</part></title>.</p>
+        <p>Context for the department history note was taken from <title><part>Patchwork: A History of Quilting Education in the United States</part></title>.</p>
       </descriptivenote>
     </source>
   </sources>
 </control>
 <archdesc level="collection">
   <did>
-      <unittitle>Quilting Technologies Department Records</unittitle>
+    <unittitle>Quilting Technologies Department Records</unittitle>
     <unitid>QD-011</unitid>
-      <unitdate normal="1978/2020" unitdatetype="inclusive">1978-2020</unitdate>
-      <unitdatestructured certainty="circa" unitdatetype="inclusive">
+    <unitdate normal="1978/2020" unitdatetype="inclusive">1978-2020</unitdate>
+    <unitdatestructured certainty="circa" unitdatetype="inclusive">
       <daterange>
         <fromdate notbefore="1975" standarddate="1978">1978, no earlier than 1975</fromdate>
         <todate standarddate="2020">2020</todate>
       </daterange>
-    </unitdatestructured>
-    <origination>
-      <corpname encodinganalog="110" relator="creator"
-          source="lcnaf"><part>Quilting Technologies Department</part><part>Piecemaking University</part></corpname>
-    </origination>
-    <physdesc>10 linear feet</physdesc>
-      <physdesc>221 GB</physdesc>
-    <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-      <quantity>10</quantity>
-      <unittype>linear feet</unittype>
+  </unitdatestructured>
+  <origination>
+    <corpname encodinganalog="110" relator="creator" source="lcnaf"><part>Quilting Technologies Department</part><part>Piecemaking University</part></corpname>
+  </origination>
+  <physdesc>10 linear feet</physdesc>
+  <physdesc>221 GB</physdesc>
+  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+    <quantity>10</quantity>
+    <unittype>linear feet</unittype>
+  </physdescstructured>
+  <physdescstructured coverage="whole" physdescstructuredtype="carrier">
+    <quantity>20</quantity>
+    <unittype>boxes</unittype>
+  </physdescstructured>
+  <physdescset coverage="part" parallel="false">
+    <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+      <quantity>221</quantity>
+      <unittype>Gigabtyes</unittype>
     </physdescstructured>
-      <physdescstructured coverage="whole" physdescstructuredtype="carrier">
-          <quantity>20</quantity>
-          <unittype>boxes</unittype>
+    <physdescstructured coverage="part" physdescstructuredtype="carrier">
+      <quantity approximate="false">2</quantity>
+      <unittype>hard drives</unittype>
+      <physfacet>labeled with printed sticker</physfacet>
+      <dimensions localtype="width" unit="inches">3.5</dimensions>
+        <descriptivenote>
+          <p>Labels on hard drives were applied by department before transfer to University Archives. If hard drives are used incorrectly, labels may melt and damage equipment. Use Archives-provided chassis to safely read hard drives.</p>
+          <p>Seagate drives sizes are 500GB each, however less than 120GB is used on each hard drive.</p>
+        </descriptivenote>
       </physdescstructured>
-    <physdescset coverage="part" parallel="false">
-        <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
-            <quantity>221</quantity>
-            <unittype>Gigabtyes</unittype>
-        </physdescstructured>
-      <physdescstructured coverage="part" physdescstructuredtype="carrier">
-        <quantity approximate="false">2</quantity>
-        <unittype>hard drives</unittype>
-        <physfacet>labeled with printed sticker</physfacet>
-        <dimensions localtype="width" unit="inches">3.5</dimensions>
-          <descriptivenote>
-              <p>Labels on hard drives were applied by department before transfer to University
-                  Archives. If hard drives are used incorrectly, labels may melt and damage equipment. Use Archives-provided chassis to safely read hard drives.</p>
-              <p>Seagate drives sizes are 500GB each, however less than 120GB is used on
-                  each hard drive.</p>
-          </descriptivenote>
+      <physdescstructured coverage="part" physdescstructuredtype="materialtype">
+        <quantity approximate="true">800</quantity>
+        <unittype>electronic files</unittype>
       </physdescstructured>
-        <physdescstructured coverage="part" physdescstructuredtype="materialtype">
-            <quantity approximate="true">800</quantity>
-            <unittype>electronic files</unittype>
-        </physdescstructured>
     </physdescset>
     <physloc audience="external">Stored offsite.</physloc>
-      <physloc audience="internal" localtype="buillding">ANNEX</physloc>
-      <physloc audience="internal" localtype="shelfloc">13:1</physloc>
+    <physloc audience="internal" localtype="buillding">ANNEX</physloc>
+    <physloc audience="internal" localtype="shelfloc">13:1</physloc>
     <repository>
-        <corpname source="lcnaf"><part>University Archives</part><part>Piecemaking University</part></corpname>
+      <corpname identifier="http://id.quiltlink.org/organizations/9385" source="lcnaf"><part>University Archives</part><part>Piecemaking University</part></corpname>
     </repository>
   </did>
   <accessrestrict>
     <head>Restrictions on Access</head>
-      <p>The collection is open for research. The following series require review by the archivist to
-          redact protected information:</p>
+    <p>The collection is open for research. The following series require review by the archivist to redact protected information:</p>
     <list listtype="unordered">
-        <item>Meeting Notes</item>
+      <item>Meeting Notes (for records less than 20 years old)</item>
       <item>Grants</item>
     </list>
   </accessrestrict>
   <accruals>
     <head>Accruals to the Collection</head>
-    <p>This collection receives annual accruals of department meeting notes, faculty lists, grants
-        awarded, and annual reports. It receives periodic accruals of recordings of symposia and other
-        hosted events. Grants recordkeeping practices require the department to maintain all
-        documentation for 7 years, after which time it is transferred to the archives.</p>
+    <p>This collection receives annual accruals of department meeting notes, faculty lists, grants awarded, and annual reports. It receives periodic accruals of recordings of symposia and other hosted events. Grants recordkeeping practices require the department to maintain all documentation for 7 years, after which time it is transferred to the archives.</p>
   </accruals>
   <acqinfo>
     <head>Acquisition History</head>
-      <p>Records from 1978 to 1988 were acquired in 1989 from contemporaneous and previous department
-      faculty and the department secretary.</p>
-    <p>Materials are transferred annually from the Quilting Technologies department in accordance with
-        University Records Schedule UA-113. Because all files are now electronic, the department
-        retains copies of these records for ongoing reference.</p>
-      <p>A 2006 donation of papers and two hard drives by <persname normal="Russel, Martha A. (Martha Anita), 1941-2010">
-          <part>Dr. Martha Russel</part></persname> was used to fill gaps in the record.</p>
+    <p>Records from 1978 to 1988 were acquired in 1989 from contemporaneous and previous department faculty and the department secretary.</p>
+    <p>Materials are transferred annually from the Quilting Technologies department in accordance with University Records Schedule UA-113. Because all files are now electronic, the department retains copies of these records for ongoing reference.</p>
+    <p>A 2006 donation of papers and two hard drives by <persname normal="Russel, Martha A. (Martha Anita), 1941-2010"><part>Dr. Martha Russel</part></persname> was used to fill gaps in the record.</p>
   </acqinfo>
   <altformavail>
     <head>Streaming Video</head>
-    <p>Recordings of some symposia and colloquia are available on the department's <ref show="new"
-        href="https://youtube.com/quilttech/colloquia" actuate="onload">YouTube page</ref>.</p>
+    <p>Recordings of some symposia and colloquia are available on the department's <ref show="new" href="https://youtube.com/quilttech/colloquia" actuate="onload">YouTube page</ref>.</p>
   </altformavail>
   <appraisal>
     <head>Appraisal of Materials</head>
-    <p>The initial records collection came to the University Archives as part of a records management
-        initiative in 1989. During processing, University Archivist Wilhelmena Ransom discarded event
-        fliers, duplicate copies of meeting notes, and department publications. Working with the
-        records manager, she drafted the schedule which became schedule UA-113 to guide further
-        materials transfer.</p>
-      <p>If records received in an annual transfer (per schedule UA-113) do not fit within existing
-          series, the current University Archivist evaluates them for the potential creation of a new
-      series or subseries.</p>
-      <p>Duplicate materials are discarded during processing.</p>
+    <p>The initial records collection came to the University Archives as part of a records management initiative in 1989. During processing, University Archivist Wilhelmena Ransom discarded event fliers, duplicate copies of meeting notes, and department publications. Working with the records manager, she drafted the schedule which became schedule UA-113 to guide further materials transfer.</p>
+    <p>If records received in an annual transfer (per schedule UA-113) do not fit within existing series, the current University Archivist evaluates them for the potential creation of a new series or subseries.</p>
+    <p>Duplicate materials are discarded during processing.</p>
   </appraisal>
   <arrangement>
     <head>Arrangement of the Materials</head>
-    <p>Materials are arranged into series and subseries based on contents. Records are arranged
-        chronologically unless otherwise noted.</p>
+    <p>Materials are arranged into series and subseries based on contents. Records are arranged chronologically unless otherwise noted.</p>
   </arrangement>
   <bibliography>
     <head>Works Citing the Collection</head>
-      <bibref>Collins, Portia. <title><part>"Tools, Techniques, and Technologies: the
-          Evolution of Quilting Practice from 1820 to 2000"</part></title>. Quilting Studies
-      Quarterly 83:2 (<date normal="2013-06">June 2013</date>): 283-312.</bibref>
-      <bibref>Gilmore, Marian. <title render="italic"><part>Rethinking Women's
-          Technologies</part></title>. <date normal="1998">1998</date>. <ref
-              href="https://catalog.piecemaking.edu/catalog/9twe2" show="new"
-              actuate="onload">Catalog record.</ref></bibref>
-      <bibref>Miller, Marcus. <title render="italic"><part>Teaching Textiles</part></title>. <date
-          normal="2010">2010</date>. <ref href="https://catalog.piecemaking.edu/catalog/93952" show="new"
-              actuate="onload">Catalog record.</ref></bibref>    
+    <bibref>Collins, Portia. <title><part>"Tools, Techniques, and Technologies: the Evolution of Quilting Practice from 1820 to 2000"</part></title>. Quilting Studies Quarterly 83:2 (<date normal="2013-06">June 2013</date>): 283-312.</bibref>
+    <bibref>Gilmore, Marian. <title render="italic"><part>Rethinking Women's Technologies</part></title>. <date normal="1998">1998</date>. <ref href="https://catalog.piecemaking.edu/catalog/9twe2" show="new" actuate="onload">Catalog record.</ref></bibref>
+    <bibref>Miller, Marcus. <title render="italic"><part>Teaching Textiles</part></title>. <date normal="2010">2010</date>. <ref href="https://catalog.piecemaking.edu/catalog/93952" show="new" actuate="onload">Catalog record.</ref></bibref>
   </bibliography>
   <bioghist>
     <head>Departmental History</head>
-    <p>The Quilting Technologies Department was created in 1978, 3 years after the founding of
-        <corpname><part>Piecemaking University</part></corpname> in order to <quote>study the history of technologies
-            of quilting and promote the exploration and development of new technologies.</quote> Its two
-        full-time faculty members were <persname identifier="http://id.loc.gov/authorities/names/no2019174587" normal="Russel, Martha A. (Martha Anita), 1941-2010"><part>Dr. Martha Russel</part></persname>
-        and <persname identifier="http://id.loc.gov/authorities/names/no2019174587233" normal="Carter, Caroline, 1932-"><part>Dr. Caroline Carter</part></persname>.
-        At the time of its founding, the department only offered a single degree, the Doctorate in Quilting.</p>
-      <p>According to historian Amelia Robinson:</p>
-      <blockquote><p>...the late 1970s saw Quilt Education to shift from a
-        discipline concerned with history to an interdisciplinary and forward-looking field. No
-        confined to longer studying and describing the textiles themselves or the persons who created
-      them, quilt educators began exploring the techniques and technologies of quilting and its
-      intersection with other textile arts and crafts. Entire departments, such as the Quilting
-      Technologies Department at Piecemaking University, began stitching together connections with
-      women's history, the history of industrialization, the study of technology, and experimental
-      research.<lb/>
-      <footnote>
-         <p><ptr target="patchwork" show="replace" linktitle="Patchwork: A History of Quilting Education in the United States"/></p>
-      </footnote></p>
-      </blockquote>
-      <p>By 1985, the department had grown to 5 faculty positions and 3 interdisciplinary positions
-          shared with other parts. It began offering three program tracks: textile history, history
-          of technology, and women's history. Around 1987, the department began offering 400-level
-          classes for undergraduates majoring in general history and women's studies.</p>
-      <p>In 2000, the department began including courses on digital technologies, although the
-          department's mission continues to define Quilting Technology as "the broad set of processes, skills,
-          tools, and techniques developed for the creation of quilts and related textiles."
-          In 2010, the department partnered with the library in the creation of a makerspace.</p>
+    <p>The Quilting Technologies Department was created in 1978, 3 years after the founding of <corpname><part>Piecemaking University</part></corpname> in order to <quote>study the history of technologies of quilting and promote the exploration and development of new technologies.</quote> Its two full-time faculty members were <persname identifier="http://id.loc.gov/authorities/names/no2019174587" normal="Russel, Martha A. (Martha Anita), 1941-2010"><part>Dr. Martha Russel</part></persname> and <persname identifier="http://id.loc.gov/authorities/names/no2019174587233" normal="Carter, Caroline, 1932-"><part>Dr. Caroline Carter</part></persname>. At the time of its founding, the department only offered a single degree, the Doctorate in Quilting.</p>
+    <p>According to historian Amelia Robinson:</p>
+    <blockquote><p>...the late 1970s saw Quilt Education to shift from a discipline concerned with history to an interdisciplinary and forward-looking field. No longer confined to studying and describing the textiles themselves or the persons who created them, quilt educators began exploring the techniques and technologies of quilting and its intersection with other textile arts and crafts. Entire departments, such as the Quilting Technologies Department at Piecemaking University, began stitching together connections with women's history, the history of industrialization, the study of technology, and experimental research.<lb/>
+    <footnote>
+    <p><ptr target="patchwork" show="replace" linktitle="Patchwork: A History of Quilting Education in the United States"/></p>
+    </footnote></p>
+    </blockquote>
+    <p>By 1985, the department had grown to 5 faculty positions and 3 interdisciplinary positions shared with other parts. It began offering three program tracks: textile history, history of technology, and women's history. Around 1987, the department began offering 400-level classes for undergraduates majoring in general history and women's studies.</p>
+    <p>In 2000, the department began including courses on digital technologies, although the department's mission continues to define Quilting Technology as "the broad set of processes, skills, tools, and techniques developed for the creation of quilts and related textiles." In 2010, the department partnered with the library in the creation of a makerspace.</p>
   </bioghist>
   <controlaccess>
       <persname identifier="http://id.loc.gov/authorities/names/no2019174587" encodinganalog="600" normal="Russel, Martha A. (Martha Anita), 1941-2010" source="lcnaf"><part localtype="familyname">Russel</part>
