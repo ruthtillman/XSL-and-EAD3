@@ -396,7 +396,7 @@
               <unittype>electronic files</unittype>
             </physdescstructured>
           </physdescset>
-          <physdescstructured coverage="part" physdescstructured="materialtype">
+          <physdescstructured coverage="part" physdescstructuredtype="materialtype">
             <quantity>152</quantity>
             <unittype>paper reports</unittype>
             <physfacet>Because minutes prior to 1989 were acquired from department faculty and staff, some have annotations, stains, or wear-and-tear from use.</physfacet>
