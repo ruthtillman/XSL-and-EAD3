@@ -139,23 +139,23 @@
   <origination>
     <corpname encodinganalog="110" relator="creator" source="lcnaf"><part>Quilting Technologies Department</part><part>Piecemaking University</part></corpname>
   </origination>
-  <physdesc>10 linear feet</physdesc>
-  <physdesc>221 GB</physdesc>
-  <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
-    <quantity>10</quantity>
-    <unittype>linear feet</unittype>
-  </physdescstructured>
-  <physdescstructured coverage="whole" physdescstructuredtype="carrier">
-    <quantity>20</quantity>
-    <unittype>boxes</unittype>
-  </physdescstructured>
-  <physdescset coverage="part" parallel="false">
+  <physdesc>20 linear feet</physdesc>
+  <physdesc>793 GB</physdesc>
+  <physdescset coverage="whole" parallel="false">
     <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
-      <quantity>221</quantity>
-      <unittype>Gigabtyes</unittype>
+      <quantity>20</quantity>
+      <unittype>linear feet</unittype>
+    </physdescstructured>
+    <physdescstructured coverage="parte" physdescstructuredtype="carrier">
+      <quantity>40</quantity>
+      <unittype>boxes</unittype>
+    </physdescstructured>
+    <physdescstructured>
+      <quantity>793</quantity>
+      <quantity>GB</quantity>
     </physdescstructured>
     <physdescstructured coverage="part" physdescstructuredtype="carrier">
-      <quantity approximate="false">2</quantity>
+      <quantity>2</quantity>
       <unittype>hard drives</unittype>
       <physfacet>labeled with printed sticker</physfacet>
       <dimensions localtype="width" unit="inches">3.5</dimensions>
@@ -163,10 +163,6 @@
           <p>Labels on hard drives were applied by department before transfer to University Archives. If hard drives are used incorrectly, labels may melt and damage equipment. Use Archives-provided chassis to safely read hard drives.</p>
           <p>Seagate drives sizes are 500GB each, however less than 120GB is used on each hard drive.</p>
         </descriptivenote>
-      </physdescstructured>
-      <physdescstructured coverage="part" physdescstructuredtype="materialtype">
-        <quantity approximate="true">800</quantity>
-        <unittype>electronic files</unittype>
       </physdescstructured>
     </physdescset>
     <physloc audience="external">Stored offsite.</physloc>
@@ -386,21 +382,23 @@
           <container containerid="9095822543101" localtype="box">4</container>
           <container containerid="9095822543102" localtype="box">5</container>
           <container containerid="9095822543103" localtype="box">6</container>
-          <physdescset parallel="true" coverage="whole">
-            <physdescstructured coverage="part" physdescstructuredtype="carrier">
-              <quantity>6</quantity>
-              <unittype>boxes</unittype>
-            </physdescstructured>
+          <physdescset parallel="false" coverage="whole">
+            <physdescset parallel="true" coverage="part">
+              <physdescstructured coverage="part" physdescstructuredtype="carrier">
+                <quantity>6</quantity>
+                <unittype>boxes</unittype>
+              </physdescstructured>
               <physdescstructured coverage="part" physdescstructuredtype="materialtype">
-              <quantity>143</quantity>
-              <unittype>electronic files</unittype>
+                <quantity>152</quantity>
+                <unittype>paper reports</unittype>
+                <physfacet>Because minutes prior to 1989 were acquired from department faculty and staff, some have annotations, stains, or wear-and-tear from use.</physfacet>
+              </physdescstructured>
+            </physdescset>
+              <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+              <quantity>38</quantity>
+              <unittype>MB</unittype>
             </physdescstructured>
           </physdescset>
-          <physdescstructured coverage="part" physdescstructuredtype="materialtype">
-            <quantity>152</quantity>
-            <unittype>paper reports</unittype>
-            <physfacet>Because minutes prior to 1989 were acquired from department faculty and staff, some have annotations, stains, or wear-and-tear from use.</physfacet>
-          </physdescstructured>
           <abstract>Regular department meetings are held in September-December and February-April of each school year. Some years include minutes of additional meetings. Minutes for the years 1983 and 1986 were not retained by anyone in the department.</abstract>
         </did>
         <accruals>
@@ -433,10 +431,16 @@
             <todate standarddate="2019">2019</todate>
           </daterange>
         </unitdatestructured>
-        <physdescstructured coverage="part" physdescstructuredtype="carrier">
-          <quantity>2</quantity>
-          <unittype>boxes</unittype>
-        </physdescstructured>
+        <physdescset coverage="whole" parallel="false">
+          <physdescstructured coverage="part" physdescstructuredtype="carrier">
+            <quantity>2</quantity>
+            <unittype>boxes</unittype>
+          </physdescstructured>
+          <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+            <quantity>149</quantity>
+            <unittype>MB</unittype>
+          </physdescstructured>
+        </physdescset>
         <container containerid="9095822543104" localtype="box">7</container>
         <container containerid="9095822543105" localtype="box">8</container>
         <daoset>
@@ -494,7 +498,24 @@
         <physdescstructured coverage="whole" physdescstructuredtype="carrier">
           <quantity>17</quantity>
           <unittype>boxes</unittype>
-        </physdescstructured>   
+        </physdescstructured>
+        <container containerid="9095822543106" localtype="box">9</container>
+        <container containerid="9095822543107" localtype="box">10</container>
+        <container containerid="9095822543108" localtype="box">11</container>
+        <container containerid="9095822543109" localtype="box">12</container>
+        <container containerid="9095822543110" localtype="box">13</container>
+        <container containerid="9095822692384" localtype="box">14</container>
+        <container containerid="9095822692385" localtype="box">15</container>
+        <container containerid="9095822692386" localtype="box">16</container>
+        <container containerid="9095822692387" localtype="box">17</container>
+        <container containerid="9095822692387" localtype="box">18</container>
+        <container containerid="9095822692623" localtype="box">19</container>   
+        <container containerid="9095822692624" localtype="box">20</container>
+        <container containerid="9095822692625" localtype="box">21</container>
+        <container containerid="9095822692626" localtype="box">22</container>
+        <container containerid="9095822692627" localtype="box">23</container>
+        <container containerid="9095822792940" localtype="box">24</container>
+        <container containerid="9095822792941" localtype="box">25</container>
       </did> 
       <c level="file">
         <did>
@@ -505,8 +526,8 @@
             </daterange>
           </unitdatestructured>
           <physdescstructured coverage="whole" physdescstructuredtype="carrier">
-            <quantity>21</quantity>
-            <unittype>folders</unittype>
+            <quantity>10</quantity>
+            <unittype>boxes</unittype>
           </physdescstructured>
           <abstract>Records of the Marshall Family Grants awarded, including original proposal along with project documents and presentations created using grant funding.</abstract>
         </did>
@@ -548,7 +569,11 @@
               <fromdate standarddate="1978">1978</fromdate>
             </daterange>
           </unitdatestructured> 
-          <abstract>Records and reports from research, teaching, and travel grants received by faculty members in the department.</abstract>            
+          <physdescstructured coverage="whole" physdescstructuredtype="carrier">
+            <quantity>3</quantity>
+            <unittype>boxes</unittype>
+          </physdescstructured>
+          <abstract>Records and reports from research, teaching, and travel grants received by faculty members in the department.</abstract>
         </did>
         <arrangement>
           <head>Arrangement</head>
@@ -584,30 +609,40 @@
             </daterange>
           </dateset>
         </unitdatestructured>
-        <physdescset parallel="true" coverage="whole">
-          <physdescstructured physdescstructuredtype="spaceoccupied" coverage="part">
-            <quantity>7</quantity>
-            <unittype>linear feet</unittype>
-          </physdescstructured>
+        <physdescset parallel="false" coverage="whole">
+          <physdescset parallel="true" coverage="part">
+            <physdescstructured physdescstructuredtype="spaceoccupied" coverage="part">
+              <quantity>7</quantity>
+              <unittype>linear feet</unittype>
+            </physdescstructured>
+            <physdescstructured physdescstructuredtype="carrier" coverage="part">
+              <quantity>14</quantity>
+              <unittype>boxes</unittype>
+            </physdescstructured>
+            <physdescstructured physdescstructuredtype="materialtype" coverage="part">
+              <quantity>28</quantity>
+              <unittype>videocasettes</unittype>
+            </physdescstructured>
+          </physdescset>
           <physdescstructured physdescstructuredtype="spaceoccupied" coverage="part">
             <quantity>792</quantity>
             <unittype>GB</unittype>
           </physdescstructured>
         </physdescset>
-        <physdescstructured physdescstructuredtype="materialtype" coverage="part">
-          <quantity>14</quantity>
-          <unittype>boxes</unittype>
-        </physdescstructured>
-        <physdescset parallel="true" coverage="whole">
-          <physdescstructured physdescstructuredtype="materialtype" coverage="part">
-            <quantity>28</quantity>
-            <unittype>videocasettes</unittype>
-          </physdescstructured>
-          <physdescstructured physdescstructuredtype="materialtype" coverage="part">
-            <quantity>10</quantity>
-            <unittype>electronic video files</unittype>
-          </physdescstructured>
-        </physdescset>
+        <container containerid="9095822712839" localtype="box">26</container>
+        <container containerid="9095822712840" localtype="box">27</container>
+        <container containerid="9095822712841" localtype="box">28</container>
+        <container containerid="9095822712841" localtype="box">29</container>
+        <container containerid="9095822712842" localtype="box">30</container>
+        <container containerid="9095822712843" localtype="box">31</container>
+        <container containerid="9095822712844" localtype="box">32</container>
+        <container containerid="9095822712845" localtype="box">33</container>
+        <container containerid="9095822712846" localtype="box">34</container>
+        <container containerid="9095822712847" localtype="box">35</container>
+        <container containerid="9095822712848" localtype="box">36</container>
+        <container containerid="9095822712849" localtype="box">37</container>
+        <container containerid="9095822712850" localtype="box">38</container>
+        <container containerid="9095822712851" localtype="box">39</container>
       </did>
       <phystech>
         <head>Technical Requirements</head>
@@ -696,8 +731,13 @@
               <todate standarddate="1999">1999</todate>
           </daterange>
         </unitdatestructured>
+        <physdescstructured physdescstructuredtype="carrier" coverage="whole">
+          <quantity>1</quantity>
+          <unittype>box</unittype>
+        </physdescstructured>
         <abstract>A collection of syllabuses previously retained by the department and used by students to select courses for upcoming semesters.</abstract>
         <didnote>For a <emph render="italic">current</emph> list of courses taught within the department, see <ptr href="https://quilttech.piecemaking.edu/courses" linkrole="text/html" linktitle="course listings on the department's website" />.</didnote>
+        <container containerid="9095822784719" localtype="box">40</container>
       </did>
       <arrangement>
           <head>Arrangement</head>
