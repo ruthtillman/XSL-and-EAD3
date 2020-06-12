@@ -611,27 +611,25 @@
             </daterange>
           </dateset>
         </unitdatestructured>
-        <physdescset parallel="false" coverage="whole">
-          <physdescset parallel="true" coverage="part">
-            <physdescstructured physdescstructuredtype="spaceoccupied" coverage="part">
-              <quantity>7</quantity>
-              <unittype>linear feet</unittype>
-            </physdescstructured>
-            <physdescstructured physdescstructuredtype="carrier" coverage="part">
-              <quantity>14</quantity>
-              <unittype>boxes</unittype>
-            </physdescstructured>
-            <physdescstructured physdescstructuredtype="materialtype" coverage="part">
-              <quantity>28</quantity>
-              <unittype>videocasettes</unittype>
-            </physdescstructured>
-          </physdescset>
+        <physdescset parallel="true" coverage="part">
           <physdescstructured physdescstructuredtype="spaceoccupied" coverage="part">
-            <quantity>792</quantity>
-            <unittype>GB</unittype>
+            <quantity>7</quantity>
+            <unittype>linear feet</unittype>
+          </physdescstructured>
+          <physdescstructured physdescstructuredtype="carrier" coverage="part">
+            <quantity>14</quantity>
+            <unittype>boxes</unittype>
+          </physdescstructured>
+          <physdescstructured physdescstructuredtype="materialtype" coverage="part">
+            <quantity>28</quantity>
+            <unittype>videocasettes</unittype>
           </physdescstructured>
         </physdescset>
-        <container containerid="9095822712839" localtype="box">26</container>
+        <physdescstructured physdescstructuredtype="spaceoccupied" coverage="part">
+          <quantity>792</quantity>
+          <unittype>GB</unittype>
+        </physdescstructured>
+       <container containerid="9095822712839" localtype="box">26</container>
         <container containerid="9095822712840" localtype="box">27</container>
         <container containerid="9095822712841" localtype="box">28</container>
         <container containerid="9095822712841" localtype="box">29</container>
