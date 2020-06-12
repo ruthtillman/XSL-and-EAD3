@@ -501,14 +501,14 @@
           <unittitle>Marshall Family Grant</unittitle>
           <unitdatestructured>
             <daterange>
-                <fromdate standarddate="1992">1992</fromdate>
+              <fromdate standarddate="1992">1992</fromdate>
             </daterange>
           </unitdatestructured>
           <physdescstructured coverage="whole" physdescstructuredtype="carrier">
-              <quantity>21</quantity>
-              <unittype>folders</unittype>
+            <quantity>21</quantity>
+            <unittype>folders</unittype>
           </physdescstructured>
-          <abstract></abstract>
+          <abstract>Records of the Marshall Family Grants awarded, including original proposal along with project documents and presentations created using grant funding.</abstract>
         </did>
         <arrangement>
           <head>Arrangement</head>
@@ -523,7 +523,7 @@
         </bioghist>
         <accruals>
           <head>Accruals</head>
-          <p>Grant applications and paperwork are retained by the department until 7 years from the grant's completion. Unsuccessful applications are then shredded. The successful application and its paperwork are transferred to the University Archives</p>
+          <p>Grant applications and paperwork are retained by the department until 7 years from the grant's completion. Unsuccessful applications and financial documents are then shredded. The successful application and its paperwork are transferred to the University Archives</p>
         </accruals>
       </c>
       <c level="file">
