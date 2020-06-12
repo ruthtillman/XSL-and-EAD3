@@ -146,13 +146,13 @@
       <quantity>20</quantity>
       <unittype>linear feet</unittype>
     </physdescstructured>
-    <physdescstructured coverage="parte" physdescstructuredtype="carrier">
+    <physdescstructured coverage="part" physdescstructuredtype="carrier">
       <quantity>40</quantity>
       <unittype>boxes</unittype>
     </physdescstructured>
-    <physdescstructured>
+    <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
       <quantity>793</quantity>
-      <quantity>GB</quantity>
+      <unittype>GB</unittype>
     </physdescstructured>
     <physdescstructured coverage="part" physdescstructuredtype="carrier">
       <quantity>2</quantity>
@@ -382,23 +382,25 @@
           <container containerid="9095822543101" localtype="box">4</container>
           <container containerid="9095822543102" localtype="box">5</container>
           <container containerid="9095822543103" localtype="box">6</container>
-          <physdescset parallel="false" coverage="whole">
-            <physdescset parallel="true" coverage="part">
-              <physdescstructured coverage="part" physdescstructuredtype="carrier">
-                <quantity>6</quantity>
-                <unittype>boxes</unittype>
-              </physdescstructured>
-              <physdescstructured coverage="part" physdescstructuredtype="materialtype">
-                <quantity>152</quantity>
-                <unittype>paper reports</unittype>
-                <physfacet>Because minutes prior to 1989 were acquired from department faculty and staff, some have annotations, stains, or wear-and-tear from use.</physfacet>
-              </physdescstructured>
-            </physdescset>
-              <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
-              <quantity>38</quantity>
-              <unittype>MB</unittype>
+          <physdescset parallel="true" coverage="part">
+            <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+              <quantity>12</quantity>
+              <unittype>linear feet</unittype>
+            </physdescstructured>
+            <physdescstructured coverage="part" physdescstructuredtype="carrier">
+              <quantity>6</quantity>
+              <unittype>boxes</unittype>
+            </physdescstructured>
+            <physdescstructured coverage="part" physdescstructuredtype="materialtype">
+              <quantity>152</quantity>
+              <unittype>paper reports</unittype>
+              <physfacet>Because minutes prior to 1989 were acquired from department faculty and staff, some have annotations, stains, or wear-and-tear from use.</physfacet>
             </physdescstructured>
           </physdescset>
+          <physdescstructured coverage="part" physdescstructuredtype="spaceoccupied">
+            <quantity>38</quantity>
+            <unittype>MB</unittype>
+          </physdescstructured>
           <abstract>Regular department meetings are held in September-December and February-April of each school year. Some years include minutes of additional meetings. Minutes for the years 1983 and 1986 were not retained by anyone in the department.</abstract>
         </did>
         <accruals>
