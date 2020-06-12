@@ -523,31 +523,45 @@
         </bioghist>
         <accruals>
           <head>Accruals</head>
-          <p>Grant applications and paperwork are retained by the department until 7 years from the grant's completion. Unsuccessful applications and financial documents are then shredded. The successful application and its paperwork are transferred to the University Archives</p>
+          <p>Grant applications and paperwork are retained by the department until 7 years from the grant's completion. Unsuccessful applications and all financial documents are then shredded. The successful application and non-financial paperwork are transferred to the University Archives.</p>
         </accruals>
       </c>
       <c level="file">
         <did>
             <unittitle>Student Research Travel Grant</unittitle>
-        </did>
-        <arrangement>
-            <head>Arrangement</head>
-            <p>Chronological.</p>
-        </arrangement>
-      </c>
-      <c level="file">
-        <did>
-          <unittitle>Faculty Research Grants</unittitle>
-          <unitdatestructured>
-              <daterange>
-                  <fromdate standarddate="1978">1978</fromdate>
-              </daterange>
-          </unitdatestructured>             
+            <abstract>Records of student travel grants awarded along with reports and presentations on research project outcomes.</abstract>
         </did>
         <arrangement>
           <head>Arrangement</head>
           <p>Chronological.</p>
         </arrangement>
+        <accruals>
+          <head>Accruals</head>
+          <p>Grant applications and paperwork are retained by the department until 7 years from the grant's completion. Unsuccessful applications and all financial documents are shredded. The successful application and non-financial paperwork are transferred to the University Archives.</p>
+        </accruals>
+      </c>
+      <c level="file">
+        <did>
+          <unittitle>Faculty Research Grants</unittitle>
+          <unitdatestructured>
+            <daterange>
+              <fromdate standarddate="1978">1978</fromdate>
+            </daterange>
+          </unitdatestructured> 
+          <abstract>Records and reports from research, teaching, and travel grants received by faculty members in the department.</abstract>            
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>Chronological.</p>
+        </arrangement>
+        <accruals>
+          <head>Accruals</head>
+          <p>Copies of all paperwork connected to facultys' completion of externally-awarded grants are retained by the department until 7 years from the grant's completion. Records are transferred to the University Archives, including financial records.</p>
+        </accruals>
+        <accessrestrict>
+          <head>Restrictions on Access</head>
+          <p>Archivist must review any requested files for any unredacted personal protected information, including financial information.</p>
+        </accessrestrict>
       </c>
     </c>
     <c level="series">
