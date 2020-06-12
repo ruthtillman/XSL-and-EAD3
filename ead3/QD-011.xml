@@ -484,284 +484,254 @@
       </legalstatus>
     </c>  
     <c level="series">
-         <did>
-             <unittitle>Grants</unittitle>
-             <unitdatestructured unitdatetype="inclusive">
-                 <daterange>
-                     <fromdate standarddate="1978">1978</fromdate>
-                 </daterange>
-             </unitdatestructured>
-             <physdescstructured coverage="whole" physdescstructuredtype="carrier">
-                 <quantity>17</quantity>
-                 <unittype>boxes</unittype>
-             </physdescstructured>   
-         </did> 
-          <c level="file">
-              <did>
-                  <unittitle>Marshall Family Grant</unittitle>
-                  <unitdatestructured>
-                      <daterange>
-                          <fromdate standarddate="1992">1992</fromdate>
-                      </daterange>
-                  </unitdatestructured>
-                  <physdescstructured coverage="whole" physdescstructuredtype="carrier">
-                      <quantity>21</quantity>
-                      <unittype>folders</unittype>
-                  </physdescstructured>
-                  <abstract></abstract>
-              </did>
-              <arrangement>
-                  <head>Arrangement</head>
-                  <p>Chronological.</p>
-              </arrangement>
-              <controlaccess>
-                  <famname encodinganalog="600" source="local"><part>Marshall family</part></famname>
-              </controlaccess>
-              <bioghist>
-                  <head>Historical Note</head>
-                  <p>The Marshall Family Grant was established by Elias and Padmini Marshall to fund
-                      international collaborations on quilting and quilting-adjacent technologies.
-                      Students in the third or fourth year of their PhD program may apply to collaborate with
-                      an international partner. Funds from this two-year grant may be used for the student
-                      and their partner to visit each other's countries, to attend one meeting of the
-                      International Quilting Technologists Association, to buy supplies used in
-                      completing grant outcomes, and to present on grant outcomes.</p>
-              </bioghist>
-              <accruals>
-                  <head>Accruals</head>
-                  <p>Grant applications and paperwork are retained by the department until 7 years
-                      from the grant's completion. Unsuccessful applications are then shredded. The
-                      successful application and its paperwork are transferred to the University
-                      Archives</p>
-              </accruals>
-          </c>
-          <c level="file">
-              <did>
-                  <unittitle>Student Research Travel Grant</unittitle>
-              </did>
-              <arrangement>
-                  <head>Arrangement</head>
-                  <p>Chronological.</p>
-              </arrangement>
-          </c>
-          <c level="file">
-              <did>
-                  <unittitle>Faculty Research Grants</unittitle>
-                  <unitdatestructured>
-                      <daterange>
-                          <fromdate standarddate="1978">1978</fromdate>
-                      </daterange>
-                  </unitdatestructured>             
-              </did>
-              <arrangement>
-                  <head>Arrangement</head>
-                  <p>Chronological.</p>
-              </arrangement>
-          </c>
+      <did>
+        <unittitle>Grants</unittitle>
+        <unitdatestructured unitdatetype="inclusive">
+          <daterange>
+           <fromdate standarddate="1978">1978</fromdate>
+          </daterange>
+        </unitdatestructured>
+        <physdescstructured coverage="whole" physdescstructuredtype="carrier">
+          <quantity>17</quantity>
+          <unittype>boxes</unittype>
+        </physdescstructured>   
+      </did> 
+      <c level="file">
+        <did>
+          <unittitle>Marshall Family Grant</unittitle>
+          <unitdatestructured>
+            <daterange>
+                <fromdate standarddate="1992">1992</fromdate>
+            </daterange>
+          </unitdatestructured>
+          <physdescstructured coverage="whole" physdescstructuredtype="carrier">
+              <quantity>21</quantity>
+              <unittype>folders</unittype>
+          </physdescstructured>
+          <abstract></abstract>
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>Chronological.</p>
+        </arrangement>
+        <controlaccess>
+          <famname encodinganalog="600" source="local"><part>Marshall family</part></famname>
+        </controlaccess>
+        <bioghist>
+          <head>Historical Note</head>
+          <p>The Marshall Family Grant was established by Elias and Padmini Marshall to fund international collaborations on quilting and quilting-adjacent technologies. Students in the third or fourth year of their PhD program may apply to collaborate with an international partner. Funds from this two-year grant may be used for the student and their partner to visit each other's countries, to attend one meeting of the International Quilting Technologists Association, to buy supplies used in completing grant outcomes, and to present on grant outcomes.</p>
+        </bioghist>
+        <accruals>
+          <head>Accruals</head>
+          <p>Grant applications and paperwork are retained by the department until 7 years from the grant's completion. Unsuccessful applications are then shredded. The successful application and its paperwork are transferred to the University Archives</p>
+        </accruals>
       </c>
-      <c level="series">
-          <did>
-              <unittitle>Colloquia and Symposia</unittitle>
-              <unitdatestructured>
-                  <dateset>
-                      <daterange>
-                          <fromdate standarddate="1997">1997</fromdate>
-                          <todate standarddate="2006">2006</todate>
-                      </daterange>
-                      <datesingle standarddate="2008">2008</datesingle>
-                      <daterange>
-                          <fromdate standarddate="2010">2010</fromdate>
-                          <todate standarddate="2015">2015</todate>
-                      </daterange>
-                      <datesingle standarddate="2017">2017</datesingle>
-                      <daterange>
-                          <fromdate standarddate="2019">2019</fromdate>
-                      </daterange>
-                  </dateset>
-              </unitdatestructured>
-              <physdescset parallel="true" coverage="whole">
-                  <physdescstructured physdescstructuredtype="spaceoccupied" coverage="part">
-                      <quantity>7</quantity>
-                      <unittype>linear feet</unittype>
-                  </physdescstructured>
-                  <physdescstructured physdescstructuredtype="spaceoccupied" coverage="part">
-                      <quantity>792</quantity>
-                      <unittype>GB</unittype>
-                  </physdescstructured>
-              </physdescset>
-              <physdescstructured physdescstructuredtype="materialtype" coverage="part">
-                  <quantity>14</quantity>
-                  <unittype>boxes</unittype>
-              </physdescstructured>
-              <physdescset parallel="true" coverage="whole">
-                  <physdescstructured physdescstructuredtype="materialtype" coverage="part">
-                      <quantity>28</quantity>
-                      <unittype>videocasettes</unittype>
-                  </physdescstructured>
-                  <physdescstructured physdescstructuredtype="materialtype" coverage="part">
-                      <quantity>10</quantity>
-                      <unittype>electronic video files</unittype>
-                  </physdescstructured>
-              </physdescset>
-          </did>
-          <phystech>
-              <head>Technical Requirements</head>
-              <p>Recordings from <date normal="1997/2006">1997-2006</date> are only available on VHS.
-              These may be watched in the reading room.</p>
-          </phystech>
-          <otherfindaid>
-              <head>Other Finding Aids</head>
-              <p>A reverse-chronological list of digitized colloquia and symposia in this collection may be found on the <ref
-                  href="https://archives.piecemaking.edu/videos/quilttech-guide">Archives' website</ref>.</p>
-          </otherfindaid>
-          <index>
-              <p>Index of speakers and associated videos.</p>
-              <listhead>
-                  <head01>Speaker</head01>
-                  <head02>Video(s)</head02>
-              </listhead>
-              <indexentry>
-                  <persname><part>Rachel Acosta</part></persname>
-                  <ref href="https://archives.piecemaking.edu/videos/player/3953"
-                      linktitle="The Original Digital: Handquilting in an Era of Machine Quilting"/>
-              </indexentry>
-              <indexentry>
-                  <namegrp>
-                      <persname><part>Wallis Culver</part></persname>
-                      <persname><part>Susan Shibata</part></persname>
-                  </namegrp>
-                  <ref href="https://archives.piecemaking.edu/videos/player/4548"
-                      linktitle="The Role of the Quilt Guild in Dispersing Technologies of Quilting"/>
-              </indexentry>
-              <indexentry>
-                  <namegrp>
-                      <persname><part>Erica Haywood</part></persname>
-                      <persname><part>Angelina Moorhead</part></persname>
-                  </namegrp>
-                  <ref href="https://archives.piecemaking.edu/videos/player/954"
-                      linktitle="Embroidery, Embellishments and Quilting, a Conversation"/>
-              </indexentry>
-              <indexentry>
-                  <persname><part>Deon Jones</part></persname>
-                  <ref href="https://archives.piecemaking.edu/videos/player/1398"
-                      linktitle="Abstractions: Modern Quilt Design after 1990"/>
-              </indexentry>
-              <indexentry>
-                  <persname><part>Rhonda Lee</part></persname>
-                  <ref href="https://archives.piecemaking.edu/videos/player/2768"
-                      linktitle="To Sandwich or Not to Sandwich: How Many Layers Does a Quilt Need to
-                      be a Quilt"/>
-              </indexentry>
-              <indexentry>
-                  <persname><part>Jazmín Medina</part></persname>
-                  <ref href="https://archives.piecemaking.edu/videos/player/359" linktitle="Analysis of
-                      Applique, 1950-1980"/>
-              </indexentry>
-              <indexentry>
-                  <namegrp>
-                      <persname><part>Noor Qader</part></persname>
-                      <persname><part>Maya Reynolds</part></persname>
-                  </namegrp>
-                  <ref href="https://archives.piecemaking.edu/videos/player/445"
-                      linktitle="Pattern Design and Dispersal from Newspapers and
-                      Magazines to Quilting Software and Websites"/>
-              </indexentry>
-              <indexentry>
-                  <persname><part>Amelia Robinson</part></persname>
-                  <ptrgrp>
-                      <ref href="https://archives.piecemaking.edu/videos/player/527"
-                          linktitle="Quilting Education: 1937 to 1999"/>
-                      <ptr target="patchwork" linktitle="based on her history of quilting education
-                          in the United States"/>
-                  </ptrgrp>
-              </indexentry>
-              <indexentry>
-                  <persname><part>Atlas Sozen</part></persname>
-                  <ref href="https://archives.piecemaking.edu/videos/player/7188"
-                      linktitle="Youtube's and the Dissemination of Quilting Techniques"/>
-              </indexentry>
-              <indexentry>
-                  <namegrp>
-                      <persname><part>Joseph Yang</part></persname>
-                      <persname><part>Elizabeth Zook</part></persname>
-                  </namegrp>
-                  <ref href="https://archives.piecemaking.edu/videos/player/2523"
-                      linktitle="From Cotton to Polyester and Beyond: Thread's Role in Quilting"/>
-              </indexentry>
-              <indexentry>
-                  <persname><part>Gladys Yoder</part></persname>
-                  <ptrgrp>
-                      <ref href="https://archives.piecemaking.edu/videos/player/2943"
-                          linktitle="Economies of Sale: Marketability and Quilt Design"/>
-                      <ref href="https://archives.piecemaking.edu/videos/player/3526"
-                          linktitle="Technologies of Amish Quilting"/>
-                  </ptrgrp>
-              </indexentry>
-          </index>
+      <c level="file">
+        <did>
+            <unittitle>Student Research Travel Grant</unittitle>
+        </did>
+        <arrangement>
+            <head>Arrangement</head>
+            <p>Chronological.</p>
+        </arrangement>
       </c>
-      <c level="series">
-          <did>
-              <unittitle>Syllabuses</unittitle>
-              <unitdatestructured>
-                  <daterange>
-                      <fromdate standarddate="1978">1978</fromdate>
-                      <todate standarddate="1999">1999</todate>
-                  </daterange>
-              </unitdatestructured>
-              <abstract>A collection of syllabuses previously retained by the department and used by
-                  students to select courses for upcoming semesters.</abstract>
-              <didnote>For a <emph render="italic">current</emph> list of courses taught within the department, see <ptr
-                  href="https://quilttech.piecemaking.edu/courses" linkrole="text/html"
-                  linktitle="course listings on the department's website" />.</didnote>
-          </did>
-          <arrangement>
-              <head>Arrangement</head>
-              <p>The series is arranged by course number and chronologically within courses.</p>
-          </arrangement>
-          <fileplan>
-              <head>List of Courses</head>
-              <p>The following list associates course codes with course titles represented in the
-                  syllabuses.</p>
-              <list listtype="deflist">
-                  <listhead>
-                      <head01>Course Number</head01>
-                      <head02>Course Title</head02>
-                  </listhead>
-                  <defitem>
-                      <label>QT-512</label>
-                      <item>What is Technology?</item>
-                  </defitem>
-                  <defitem>
-                      <label>QT-537</label>
-                      <item>History of the Quilt</item>
-                  </defitem>
-                  <defitem>
-                      <label>QT-570</label>
-                      <item>Traditional Quilts, Art Quilts, and Feminism</item>
-                  </defitem>
-                  <defitem>
-                      <label>QT-614</label>
-                      <item>Quilting and the Industrial Revolution</item>
-                  </defitem>
-                  <defitem>
-                      <label>QT-638</label>
-                      <item>Women's Work: Society, Technology, and Misogyny</item>
-                  </defitem>
-                  <defitem>
-                      <label>QT-687</label>
-                      <item>Technologies of Improvization</item>
-                  </defitem>
-                  <defitem>
-                      <label>QT-712</label>
-                      <item>Needle, Thimble, and Computer: Textiles and Technologies</item>
-                  </defitem>
-                  <defitem>
-                      <label>QT-729</label>
-                      <item>Technological Design and the Textile Future</item>
-                  </defitem>
-              </list>
-          </fileplan>
+      <c level="file">
+        <did>
+          <unittitle>Faculty Research Grants</unittitle>
+          <unitdatestructured>
+              <daterange>
+                  <fromdate standarddate="1978">1978</fromdate>
+              </daterange>
+          </unitdatestructured>             
+        </did>
+        <arrangement>
+          <head>Arrangement</head>
+          <p>Chronological.</p>
+        </arrangement>
       </c>
+    </c>
+    <c level="series">
+      <did>
+        <unittitle>Colloquia and Symposia</unittitle>
+        <unitdatestructured>
+          <dateset>
+            <daterange>
+              <fromdate standarddate="1997">1997</fromdate>
+              <todate standarddate="2006">2006</todate>
+            </daterange>
+            <datesingle standarddate="2008">2008</datesingle>
+            <daterange>
+              <fromdate standarddate="2010">2010</fromdate>
+              <todate standarddate="2015">2015</todate>
+            </daterange>
+            <datesingle standarddate="2017">2017</datesingle>
+            <daterange>
+                <fromdate standarddate="2019">2019</fromdate>
+            </daterange>
+          </dateset>
+        </unitdatestructured>
+        <physdescset parallel="true" coverage="whole">
+          <physdescstructured physdescstructuredtype="spaceoccupied" coverage="part">
+            <quantity>7</quantity>
+            <unittype>linear feet</unittype>
+          </physdescstructured>
+          <physdescstructured physdescstructuredtype="spaceoccupied" coverage="part">
+            <quantity>792</quantity>
+            <unittype>GB</unittype>
+          </physdescstructured>
+        </physdescset>
+        <physdescstructured physdescstructuredtype="materialtype" coverage="part">
+          <quantity>14</quantity>
+          <unittype>boxes</unittype>
+        </physdescstructured>
+        <physdescset parallel="true" coverage="whole">
+          <physdescstructured physdescstructuredtype="materialtype" coverage="part">
+            <quantity>28</quantity>
+            <unittype>videocasettes</unittype>
+          </physdescstructured>
+          <physdescstructured physdescstructuredtype="materialtype" coverage="part">
+            <quantity>10</quantity>
+            <unittype>electronic video files</unittype>
+          </physdescstructured>
+        </physdescset>
+      </did>
+      <phystech>
+        <head>Technical Requirements</head>
+        <p>Recordings from <date normal="1997/2006">1997-2006</date> are only available on VHS. These may be watched in the reading room.</p>
+      </phystech>
+      <otherfindaid>
+        <head>Other Finding Aids</head>
+        <p>A reverse-chronological list of digitized colloquia and symposia in this collection may be found on the <ref href="https://archives.piecemaking.edu/videos/quilttech-guide">Archives' website</ref>.</p>
+      </otherfindaid>
+      <index>
+        <p>Index of speakers and associated videos.</p>
+        <listhead>
+          <head01>Speaker</head01>
+          <head02>Video(s)</head02>
+        </listhead>
+        <indexentry>
+          <persname><part>Rachel Acosta</part></persname>
+          <ref href="https://archives.piecemaking.edu/videos/player/3953" linktitle="The Original Digital: Handquilting in an Era of Machine Quilting"/>
+        </indexentry>
+        <indexentry>
+          <namegrp>
+            <persname><part>Wallis Culver</part></persname>
+            <persname><part>Susan Shibata</part></persname>
+          </namegrp>
+          <ref href="https://archives.piecemaking.edu/videos/player/4548" linktitle="The Role of the Quilt Guild in Dispersing Technologies of Quilting"/>
+        </indexentry>
+        <indexentry>
+          <namegrp>
+            <persname><part>Erica Haywood</part></persname>
+            <persname><part>Angelina Moorhead</part></persname>
+          </namegrp>
+          <ref href="https://archives.piecemaking.edu/videos/player/954" linktitle="Embroidery, Embellishments and Quilting, a Conversation"/>
+        </indexentry>
+        <indexentry>
+          <persname><part>Deon Jones</part></persname>
+          <ref href="https://archives.piecemaking.edu/videos/player/1398" linktitle="Abstractions: Modern Quilt Design after 1990"/>
+        </indexentry>
+        <indexentry>
+          <persname><part>Rhonda Lee</part></persname>
+          <ref href="https://archives.piecemaking.edu/videos/player/2768" linktitle="To Sandwich or Not to Sandwich: How Many Layers Does a Quilt Need to be a Quilt"/>
+        </indexentry>
+        <indexentry>
+          <persname><part>Jazmín Medina</part></persname>
+          <ref href="https://archives.piecemaking.edu/videos/player/359" linktitle="Analysis of Applique, 1950-1980"/>
+        </indexentry>
+        <indexentry>
+          <namegrp>
+            <persname><part>Noor Qader</part></persname>
+            <persname><part>Maya Reynolds</part></persname>
+          </namegrp>
+          <ref href="https://archives.piecemaking.edu/videos/player/445" linktitle="Pattern Design and Dispersal from Newspapers and Magazines to Quilting Software and Websites"/>
+        </indexentry>
+        <indexentry>
+          <persname><part>Amelia Robinson</part></persname>
+          <ptrgrp>
+            <ref href="https://archives.piecemaking.edu/videos/player/527" linktitle="Quilting Education: 1937 to 1999"/>
+            <ptr target="patchwork" linktitle="based on her history of quilting education in the United States"/>
+          </ptrgrp>
+        </indexentry>
+        <indexentry>
+          <persname><part>Atlas Sozen</part></persname>
+          <ref href="https://archives.piecemaking.edu/videos/player/7188" linktitle="Youtube's and the Dissemination of Quilting Techniques"/>
+        </indexentry>
+        <indexentry>
+          <namegrp>
+              <persname><part>Joseph Yang</part></persname>
+              <persname><part>Elizabeth Zook</part></persname>
+          </namegrp>
+          <ref href="https://archives.piecemaking.edu/videos/player/2523" linktitle="From Cotton to Polyester and Beyond: Thread's Role in Quilting"/>
+        </indexentry>
+        <indexentry>
+          <persname><part>Gladys Yoder</part></persname>
+          <ptrgrp>
+            <ref href="https://archives.piecemaking.edu/videos/player/2943" linktitle="Economies of Sale: Marketability and Quilt Design"/>
+            <ref href="https://archives.piecemaking.edu/videos/player/3526" linktitle="Technologies of Amish Quilting"/>
+          </ptrgrp>
+        </indexentry>
+      </index>
+    </c>
+    <c level="series">
+      <did>
+        <unittitle>Syllabuses</unittitle>
+        <unitdatestructured>
+          <daterange>
+              <fromdate standarddate="1978">1978</fromdate>
+              <todate standarddate="1999">1999</todate>
+          </daterange>
+        </unitdatestructured>
+        <abstract>A collection of syllabuses previously retained by the department and used by students to select courses for upcoming semesters.</abstract>
+        <didnote>For a <emph render="italic">current</emph> list of courses taught within the department, see <ptr href="https://quilttech.piecemaking.edu/courses" linkrole="text/html" linktitle="course listings on the department's website" />.</didnote>
+      </did>
+      <arrangement>
+          <head>Arrangement</head>
+          <p>The series is arranged by course number and chronologically within courses.</p>
+      </arrangement>
+      <fileplan>
+        <head>List of Courses</head>
+        <p>The following list associates course codes with course titles represented in the syllabuses.</p>
+        <list listtype="deflist">
+          <listhead>
+            <head01>Course Number</head01>
+            <head02>Course Title</head02>
+          </listhead>
+          <defitem>
+            <label>QT-512</label>
+            <item>What is Technology?</item>
+          </defitem>
+          <defitem>
+            <label>QT-537</label>
+            <item>History of the Quilt</item>
+          </defitem>
+          <defitem>
+            <label>QT-570</label>
+            <item>Traditional Quilts, Art Quilts, and Feminism</item>
+          </defitem>
+          <defitem>
+            <label>QT-614</label>
+            <item>Quilting and the Industrial Revolution</item>
+          </defitem>
+          <defitem>
+            <label>QT-638</label>
+            <item>Women's Work: Society, Technology, and Misogyny</item>
+          </defitem>
+          <defitem>
+            <label>QT-687</label>
+            <item>Technologies of Improvisation</item>
+          </defitem>
+          <defitem>
+            <label>QT-712</label>
+            <item>Needle, Thimble, and Computer: Textiles and Technologies</item>
+          </defitem>
+          <defitem>
+            <label>QT-729</label>
+            <item>Technological Design and the Textile Future</item>
+          </defitem>
+        </list>
+      </fileplan>
+    </c>
   </dsc>
 </archdesc>
 </ead>
